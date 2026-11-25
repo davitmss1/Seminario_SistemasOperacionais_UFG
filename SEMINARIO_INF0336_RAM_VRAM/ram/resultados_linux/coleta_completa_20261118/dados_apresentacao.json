@@ -1,0 +1,2366 @@
+{
+  "parametros": {
+    "saida": "resultados_linux/coleta_completa_20261118",
+    "cargas_mib": [
+      256,
+      512,
+      768,
+      1024,
+      1536
+    ],
+    "padroes": [
+      "sequencial",
+      "localidade",
+      "pseudoaleatorio"
+    ],
+    "repeticoes": 3,
+    "duracao": 60.0,
+    "intervalo": 0.5,
+    "baseline": 3.0,
+    "taxa": 50000,
+    "semente": 336,
+    "timeout_inicializacao": 180,
+    "permitir_mais_ram": false
+  },
+  "memtotal_mib": 897.60546875,
+  "real": [
+    {
+      "carga": 256,
+      "padrao": "sequencial",
+      "n": 3,
+      "acessos_por_s": 49999.85941913336,
+      "acessos_por_s_min": 49999.736226185414,
+      "acessos_por_s_max": 49999.96977732969,
+      "acessos_por_s_dp": 0.11730337754964028,
+      "major_faults_acessos": 0.0,
+      "major_faults_acessos_min": 0.0,
+      "major_faults_acessos_max": 0.0,
+      "major_faults_acessos_dp": 0.0,
+      "major_faults_por_1000_acessos": 0.0,
+      "major_faults_por_1000_acessos_min": 0.0,
+      "major_faults_por_1000_acessos_max": 0.0,
+      "major_faults_por_1000_acessos_dp": 0.0,
+      "pswpin_mib": 0.013020833333333334,
+      "pswpin_mib_min": 0.0,
+      "pswpin_mib_max": 0.0234375,
+      "pswpin_mib_dp": 0.011933790872280834,
+      "pswpout_mib": 0.0,
+      "pswpout_mib_min": 0.0,
+      "pswpout_mib_max": 0.0,
+      "pswpout_mib_dp": 0.0,
+      "pico_VmSwap_mib": 0.0,
+      "pico_VmSwap_mib_min": 0.0,
+      "pico_VmSwap_mib_max": 0.0,
+      "pico_VmSwap_mib_dp": 0.0
+    },
+    {
+      "carga": 256,
+      "padrao": "localidade",
+      "n": 3,
+      "acessos_por_s": 49999.89477863248,
+      "acessos_por_s_min": 49999.85730261814,
+      "acessos_por_s_max": 49999.96907734547,
+      "acessos_por_s_dp": 0.06434540208799469,
+      "major_faults_acessos": 0.0,
+      "major_faults_acessos_min": 0.0,
+      "major_faults_acessos_max": 0.0,
+      "major_faults_acessos_dp": 0.0,
+      "major_faults_por_1000_acessos": 0.0,
+      "major_faults_por_1000_acessos_min": 0.0,
+      "major_faults_por_1000_acessos_max": 0.0,
+      "major_faults_por_1000_acessos_dp": 0.0,
+      "pswpin_mib": 0.85546875,
+      "pswpin_mib_min": 0.0,
+      "pswpin_mib_max": 2.56640625,
+      "pswpin_mib_dp": 1.481715339287438,
+      "pswpout_mib": 0.0,
+      "pswpout_mib_min": 0.0,
+      "pswpout_mib_max": 0.0,
+      "pswpout_mib_dp": 0.0,
+      "pico_VmSwap_mib": 0.0,
+      "pico_VmSwap_mib_min": 0.0,
+      "pico_VmSwap_mib_max": 0.0,
+      "pico_VmSwap_mib_dp": 0.0
+    },
+    {
+      "carga": 256,
+      "padrao": "pseudoaleatorio",
+      "n": 3,
+      "acessos_por_s": 49999.86126089163,
+      "acessos_por_s_min": 49999.79279111252,
+      "acessos_por_s_max": 49999.89575160799,
+      "acessos_por_s_dp": 0.05929711996276848,
+      "major_faults_acessos": 0.0,
+      "major_faults_acessos_min": 0.0,
+      "major_faults_acessos_max": 0.0,
+      "major_faults_acessos_dp": 0.0,
+      "major_faults_por_1000_acessos": 0.0,
+      "major_faults_por_1000_acessos_min": 0.0,
+      "major_faults_por_1000_acessos_max": 0.0,
+      "major_faults_por_1000_acessos_dp": 0.0,
+      "pswpin_mib": 0.2604166666666667,
+      "pswpin_mib_min": 0.0,
+      "pswpin_mib_max": 0.765625,
+      "pswpin_mib_dp": 0.4375929960686452,
+      "pswpout_mib": 0.0,
+      "pswpout_mib_min": 0.0,
+      "pswpout_mib_max": 0.0,
+      "pswpout_mib_dp": 0.0,
+      "pico_VmSwap_mib": 0.0,
+      "pico_VmSwap_mib_min": 0.0,
+      "pico_VmSwap_mib_max": 0.0,
+      "pico_VmSwap_mib_dp": 0.0
+    },
+    {
+      "carga": 512,
+      "padrao": "sequencial",
+      "n": 3,
+      "acessos_por_s": 49999.93937777401,
+      "acessos_por_s_min": 49999.897925719306,
+      "acessos_por_s_max": 49999.96944317056,
+      "acessos_por_s_dp": 0.03709350949284403,
+      "major_faults_acessos": 538.6666666666666,
+      "major_faults_acessos_min": 0.0,
+      "major_faults_acessos_max": 1616.0,
+      "major_faults_acessos_dp": 932.9980350104353,
+      "major_faults_por_1000_acessos": 0.17955172511875303,
+      "major_faults_por_1000_acessos_min": 0.0,
+      "major_faults_por_1000_acessos_max": 0.5386551753562591,
+      "major_faults_por_1000_acessos_dp": 0.31099271049232124,
+      "pswpin_mib": 18.678385416666668,
+      "pswpin_mib_min": 0.0,
+      "pswpin_mib_max": 55.71484375,
+      "pswpin_mib_dp": 32.07491363093541,
+      "pswpout_mib": 25.26171875,
+      "pswpout_mib_min": 0.0,
+      "pswpout_mib_max": 75.78515625,
+      "pswpout_mib_dp": 43.75458036151535,
+      "pico_VmSwap_mib": 14.6875,
+      "pico_VmSwap_mib_min": 0.0,
+      "pico_VmSwap_mib_max": 44.0625,
+      "pico_VmSwap_mib_dp": 25.439496236167884
+    },
+    {
+      "carga": 512,
+      "padrao": "localidade",
+      "n": 3,
+      "acessos_por_s": 49999.89857435031,
+      "acessos_por_s_min": 49999.84111056123,
+      "acessos_por_s_max": 49999.94314627753,
+      "acessos_por_s_dp": 0.05222520394094548,
+      "major_faults_acessos": 0.0,
+      "major_faults_acessos_min": 0.0,
+      "major_faults_acessos_max": 0.0,
+      "major_faults_acessos_dp": 0.0,
+      "major_faults_por_1000_acessos": 0.0,
+      "major_faults_por_1000_acessos_min": 0.0,
+      "major_faults_por_1000_acessos_max": 0.0,
+      "major_faults_por_1000_acessos_dp": 0.0,
+      "pswpin_mib": 0.87109375,
+      "pswpin_mib_min": 0.0,
+      "pswpin_mib_max": 1.5078125,
+      "pswpin_mib_dp": 0.7807517942712732,
+      "pswpout_mib": 0.4973958333333333,
+      "pswpout_mib_min": 0.0,
+      "pswpout_mib_max": 1.4921875,
+      "pswpout_mib_dp": 0.8615148548063947,
+      "pico_VmSwap_mib": 0.0,
+      "pico_VmSwap_mib_min": 0.0,
+      "pico_VmSwap_mib_max": 0.0,
+      "pico_VmSwap_mib_dp": 0.0
+    },
+    {
+      "carga": 512,
+      "padrao": "pseudoaleatorio",
+      "n": 3,
+      "acessos_por_s": 49999.91832633229,
+      "acessos_por_s_min": 49999.88392857898,
+      "acessos_por_s_max": 49999.939679692936,
+      "acessos_por_s_dp": 0.03007762975857379,
+      "major_faults_acessos": 31850.666666666668,
+      "major_faults_acessos_min": 0.0,
+      "major_faults_acessos_max": 95552.0,
+      "major_faults_acessos_dp": 55166.97292160712,
+      "major_faults_por_1000_acessos": 10.61666240009102,
+      "major_faults_por_1000_acessos_min": 0.0,
+      "major_faults_por_1000_acessos_max": 31.84998720027306,
+      "major_faults_por_1000_acessos_dp": 18.388598683763785,
+      "pswpin_mib": 185.421875,
+      "pswpin_mib_min": 0.0,
+      "pswpin_mib_max": 556.19140625,
+      "pswpin_mib_dp": 321.0958351561326,
+      "pswpout_mib": 218.93619791666666,
+      "pswpout_mib_min": 0.0,
+      "pswpout_mib_max": 656.79296875,
+      "pswpout_mib_dp": 379.1950868411678,
+      "pico_VmSwap_mib": 35.182291666666664,
+      "pico_VmSwap_mib_min": 0.0,
+      "pico_VmSwap_mib_max": 105.546875,
+      "pico_VmSwap_mib_dp": 60.93751669337378
+    },
+    {
+      "carga": 768,
+      "padrao": "sequencial",
+      "n": 3,
+      "acessos_por_s": 48926.292506056285,
+      "acessos_por_s_min": 46782.69645552279,
+      "acessos_por_s_max": 49999.98052792299,
+      "acessos_por_s_dp": 1856.4095973098865,
+      "major_faults_acessos": 241779.66666666666,
+      "major_faults_acessos_min": 162248.0,
+      "major_faults_acessos_max": 397670.0,
+      "major_faults_acessos_dp": 135014.3103612848,
+      "major_faults_por_1000_acessos": 83.63136311991786,
+      "major_faults_por_1000_acessos_min": 54.08612817887011,
+      "major_faults_por_1000_acessos_max": 141.6688041495668,
+      "major_faults_por_1000_acessos_dp": 50.26465595618361,
+      "pswpin_mib": 6778.934895833333,
+      "pswpin_mib_min": 4908.85546875,
+      "pswpin_mib_max": 10473.015625,
+      "pswpin_mib_dp": 3199.250712839067,
+      "pswpout_mib": 6788.196614583333,
+      "pswpout_mib_min": 4931.30078125,
+      "pswpout_mib_max": 10434.6328125,
+      "pswpout_mib_dp": 3158.085954957583,
+      "pico_VmSwap_mib": 170.91666666666666,
+      "pico_VmSwap_mib_min": 49.19140625,
+      "pico_VmSwap_mib_max": 414.1328125,
+      "pico_VmSwap_mib_dp": 210.63139350160057
+    },
+    {
+      "carga": 768,
+      "padrao": "localidade",
+      "n": 3,
+      "acessos_por_s": 49999.88004770017,
+      "acessos_por_s_min": 49999.76551110216,
+      "acessos_por_s_max": 49999.93743974623,
+      "acessos_por_s_dp": 0.09919168073409834,
+      "major_faults_acessos": 76512.0,
+      "major_faults_acessos_min": 16377.0,
+      "major_faults_acessos_max": 189988.0,
+      "major_faults_acessos_dp": 98331.79313426558,
+      "major_faults_por_1000_acessos": 25.503455926273574,
+      "major_faults_por_1000_acessos_min": 5.458883543817732,
+      "major_faults_por_1000_acessos_max": 63.32798233637683,
+      "major_faults_por_1000_acessos_dp": 32.77656514469878,
+      "pswpin_mib": 435.28515625,
+      "pswpin_mib_min": 90.953125,
+      "pswpin_mib_max": 1120.73828125,
+      "pswpin_mib_dp": 593.6219903769625,
+      "pswpout_mib": 547.6002604166666,
+      "pswpout_mib_min": 130.3046875,
+      "pswpout_mib_max": 1377.984375,
+      "pswpout_mib_dp": 719.1368145855449,
+      "pico_VmSwap_mib": 214.03776041666666,
+      "pico_VmSwap_mib_min": 51.7734375,
+      "pico_VmSwap_mib_max": 538.546875,
+      "pico_VmSwap_mib_dp": 281.03313715843484
+    },
+    {
+      "carga": 768,
+      "padrao": "pseudoaleatorio",
+      "n": 3,
+      "acessos_por_s": 49999.89325724704,
+      "acessos_por_s_min": 49999.86266580702,
+      "acessos_por_s_max": 49999.93646060293,
+      "acessos_por_s_dp": 0.038480037581886534,
+      "major_faults_acessos": 64894.0,
+      "major_faults_acessos_min": 60623.0,
+      "major_faults_acessos_max": 73279.0,
+      "major_faults_acessos_dp": 7262.047300864957,
+      "major_faults_por_1000_acessos": 21.63087187473334,
+      "major_faults_por_1000_acessos_min": 20.207235578974316,
+      "major_faults_por_1000_acessos_max": 24.42581224933868,
+      "major_faults_por_1000_acessos_dp": 2.420630793498056,
+      "pswpin_mib": 331.6822916666667,
+      "pswpin_mib_min": 297.14453125,
+      "pswpin_mib_max": 360.21875,
+      "pswpin_mib_dp": 31.96249345330052,
+      "pswpout_mib": 364.7682291666667,
+      "pswpout_mib_min": 331.0078125,
+      "pswpout_mib_max": 399.828125,
+      "pswpout_mib_dp": 34.42855410452005,
+      "pico_VmSwap_mib": 55.454427083333336,
+      "pico_VmSwap_mib_min": 41.80078125,
+      "pico_VmSwap_mib_max": 65.73828125,
+      "pico_VmSwap_mib_dp": 12.319399273911536
+    },
+    {
+      "carga": 1024,
+      "padrao": "sequencial",
+      "n": 3,
+      "acessos_por_s": 45674.555466099,
+      "acessos_por_s_min": 43942.95811097025,
+      "acessos_por_s_max": 47929.636245591515,
+      "acessos_por_s_dp": 2044.2423557285304,
+      "major_faults_acessos": 380457.0,
+      "major_faults_acessos_min": 358710.0,
+      "major_faults_acessos_max": 405055.0,
+      "major_faults_acessos_dp": 23303.667243590655,
+      "major_faults_por_1000_acessos": 138.75366307983376,
+      "major_faults_por_1000_acessos_min": 136.0398968446602,
+      "major_faults_por_1000_acessos_max": 140.84440927096315,
+      "major_faults_por_1000_acessos_dp": 2.4621028400709517,
+      "pswpin_mib": 10839.584635416666,
+      "pswpin_mib_min": 10457.53125,
+      "pswpin_mib_max": 11376.75,
+      "pswpin_mib_dp": 478.837730498173,
+      "pswpout_mib": 10972.0625,
+      "pswpout_mib_min": 10585.36328125,
+      "pswpout_mib_max": 11507.80859375,
+      "pswpout_mib_dp": 478.9442210203135,
+      "pico_VmSwap_mib": 304.7239583333333,
+      "pico_VmSwap_mib_min": 298.30859375,
+      "pico_VmSwap_mib_max": 311.59765625,
+      "pico_VmSwap_mib_dp": 6.656376462878275
+    },
+    {
+      "carga": 1024,
+      "padrao": "localidade",
+      "n": 3,
+      "acessos_por_s": 49999.9129257711,
+      "acessos_por_s_min": 49999.7905436792,
+      "acessos_por_s_max": 49999.98270787488,
+      "acessos_por_s_dp": 0.10633361927558978,
+      "major_faults_acessos": 97239.66666666667,
+      "major_faults_acessos_min": 94798.0,
+      "major_faults_acessos_max": 100195.0,
+      "major_faults_acessos_dp": 2734.920900745273,
+      "major_faults_por_1000_acessos": 32.41253075489945,
+      "major_faults_por_1000_acessos_min": 31.598659228603122,
+      "major_faults_por_1000_acessos_max": 33.39762085075518,
+      "major_faults_por_1000_acessos_dp": 0.9116208523369074,
+      "pswpin_mib": 389.2135416666667,
+      "pswpin_mib_min": 372.7109375,
+      "pswpin_mib_max": 401.76953125,
+      "pswpin_mib_dp": 14.925893363009106,
+      "pswpout_mib": 688.5455729166666,
+      "pswpout_mib_min": 663.30078125,
+      "pswpout_mib_max": 704.03125,
+      "pswpout_mib_dp": 22.04933126506683,
+      "pico_VmSwap_mib": 319.55078125,
+      "pico_VmSwap_mib_min": 303.953125,
+      "pico_VmSwap_mib_max": 343.07421875,
+      "pico_VmSwap_mib_dp": 20.729893882174384
+    },
+    {
+      "carga": 1024,
+      "padrao": "pseudoaleatorio",
+      "n": 3,
+      "acessos_por_s": 25914.56622861303,
+      "acessos_por_s_min": 25329.214054951106,
+      "acessos_por_s_max": 26283.42150813697,
+      "acessos_por_s_dp": 512.6218341110803,
+      "major_faults_acessos": 412046.6666666667,
+      "major_faults_acessos_min": 405644.0,
+      "major_faults_acessos_max": 416967.0,
+      "major_faults_acessos_dp": 5805.2188876332075,
+      "major_faults_por_1000_acessos": 264.99758229235175,
+      "major_faults_por_1000_acessos_min": 263.73022959183675,
+      "major_faults_por_1000_acessos_max": 266.89352787603167,
+      "major_faults_por_1000_acessos_dp": 1.6727106050574974,
+      "pswpin_mib": 1617.0872395833333,
+      "pswpin_mib_min": 1590.69140625,
+      "pswpin_mib_max": 1636.28125,
+      "pswpin_mib_dp": 23.63277709622004,
+      "pswpout_mib": 1897.6106770833333,
+      "pswpout_mib_min": 1875.58984375,
+      "pswpout_mib_max": 1915.125,
+      "pswpout_mib_dp": 20.149159338037464,
+      "pico_VmSwap_mib": 294.62890625,
+      "pico_VmSwap_mib_min": 293.3984375,
+      "pico_VmSwap_mib_max": 296.8515625,
+      "pico_VmSwap_mib_dp": 1.9285603679359995
+    },
+    {
+      "carga": 1536,
+      "padrao": "sequencial",
+      "n": 3,
+      "acessos_por_s": 43610.64852446449,
+      "acessos_por_s_min": 38296.358724379024,
+      "acessos_por_s_max": 47047.74841771151,
+      "acessos_por_s_dp": 4667.931753024416,
+      "major_faults_acessos": 396529.0,
+      "major_faults_acessos_min": 381415.0,
+      "major_faults_acessos_max": 407877.0,
+      "major_faults_acessos_dp": 13627.047662645053,
+      "major_faults_por_1000_acessos": 152.37731315129847,
+      "major_faults_por_1000_acessos_min": 144.48803221637797,
+      "major_faults_por_1000_acessos_max": 165.98733776180927,
+      "major_faults_por_1000_acessos_dp": 11.836393702699667,
+      "pswpin_mib": 10598.234375,
+      "pswpin_mib_min": 9491.515625,
+      "pswpin_mib_max": 11337.19140625,
+      "pswpin_mib_dp": 976.2511376211886,
+      "pswpout_mib": 11043.009114583334,
+      "pswpout_mib_min": 9796.18359375,
+      "pswpout_mib_max": 11851.49609375,
+      "pswpout_mib_dp": 1095.528582921006,
+      "pico_VmSwap_mib": 847.7213541666666,
+      "pico_VmSwap_mib_min": 826.45703125,
+      "pico_VmSwap_mib_max": 872.30859375,
+      "pico_VmSwap_mib_dp": 23.105687120340306
+    },
+    {
+      "carga": 1536,
+      "padrao": "localidade",
+      "n": 3,
+      "acessos_por_s": 49999.95205246792,
+      "acessos_por_s_min": 49999.9217292923,
+      "acessos_por_s_max": 49999.97574386257,
+      "acessos_por_s_dp": 0.027611208582726074,
+      "major_faults_acessos": 173591.33333333334,
+      "major_faults_acessos_min": 173363.0,
+      "major_faults_acessos_max": 173761.0,
+      "major_faults_acessos_dp": 205.38338134652798,
+      "major_faults_por_1000_acessos": 57.86254337685241,
+      "major_faults_por_1000_acessos_min": 57.78643388941036,
+      "major_faults_por_1000_acessos_max": 57.91909772591518,
+      "major_faults_por_1000_acessos_dp": 0.06845966664261947,
+      "pswpin_mib": 692.2604166666666,
+      "pswpin_mib_min": 684.12109375,
+      "pswpin_mib_max": 699.0234375,
+      "pswpin_mib_dp": 7.545900733459974,
+      "pswpout_mib": 1475.3229166666667,
+      "pswpout_mib_min": 1463.375,
+      "pswpout_mib_max": 1491.01171875,
+      "pswpout_mib_dp": 14.193051947770867,
+      "pico_VmSwap_mib": 816.2317708333334,
+      "pico_VmSwap_mib_min": 803.50390625,
+      "pico_VmSwap_mib_max": 826.64453125,
+      "pico_VmSwap_mib_dp": 11.74273868501485
+    },
+    {
+      "carga": 1536,
+      "padrao": "pseudoaleatorio",
+      "n": 3,
+      "acessos_por_s": 13298.440323824068,
+      "acessos_por_s_min": 13002.161676765088,
+      "acessos_por_s_max": 13676.630055712752,
+      "acessos_por_s_dp": 344.6142305731973,
+      "major_faults_acessos": 408997.3333333333,
+      "major_faults_acessos_min": 398664.0,
+      "major_faults_acessos_max": 421319.0,
+      "major_faults_acessos_dp": 11457.633190730681,
+      "major_faults_por_1000_acessos": 512.4857347589701,
+      "major_faults_por_1000_acessos_min": 510.9190452755906,
+      "major_faults_por_1000_acessos_max": 513.3429019806613,
+      "major_faults_por_1000_acessos_dp": 1.3587997319519056,
+      "pswpin_mib": 1604.6315104166667,
+      "pswpin_mib_min": 1562.37109375,
+      "pswpin_mib_max": 1653.13671875,
+      "pswpin_mib_dp": 45.7039138108566,
+      "pswpout_mib": 2392.1927083333335,
+      "pswpout_mib_min": 2348.70703125,
+      "pswpout_mib_max": 2434.96875,
+      "pswpout_mib_dp": 43.13523753550531,
+      "pico_VmSwap_mib": 813.1380208333334,
+      "pico_VmSwap_mib_min": 808.77734375,
+      "pico_VmSwap_mib_max": 817.27734375,
+      "pico_VmSwap_mib_dp": 4.254321126845682
+    }
+  ],
+  "sim": [
+    {
+      "carga": 256,
+      "padrao": "sequencial",
+      "cap_mib": 128,
+      "FIFO": 100.0,
+      "LRU": 100.0
+    },
+    {
+      "carga": 256,
+      "padrao": "sequencial",
+      "cap_mib": 256,
+      "FIFO": 2.1844867309497396,
+      "LRU": 2.1844867309497396
+    },
+    {
+      "carga": 256,
+      "padrao": "sequencial",
+      "cap_mib": 512,
+      "FIFO": 2.1844867309497396,
+      "LRU": 2.1844867309497396
+    },
+    {
+      "carga": 256,
+      "padrao": "localidade",
+      "cap_mib": 128,
+      "FIFO": 5.961306158801945,
+      "LRU": 5.425450923713627
+    },
+    {
+      "carga": 256,
+      "padrao": "localidade",
+      "cap_mib": 256,
+      "FIFO": 2.1626871960064853,
+      "LRU": 2.1626871960064853
+    },
+    {
+      "carga": 256,
+      "padrao": "localidade",
+      "cap_mib": 512,
+      "FIFO": 2.1626871960064853,
+      "LRU": 2.1626871960064853
+    },
+    {
+      "carga": 256,
+      "padrao": "pseudoaleatorio",
+      "cap_mib": 128,
+      "FIFO": 50.35339246096083,
+      "LRU": 50.35765903660722
+    },
+    {
+      "carga": 256,
+      "padrao": "pseudoaleatorio",
+      "cap_mib": 256,
+      "FIFO": 2.1844867309497396,
+      "LRU": 2.1844867309497396
+    },
+    {
+      "carga": 256,
+      "padrao": "pseudoaleatorio",
+      "cap_mib": 512,
+      "FIFO": 2.1844867309497396,
+      "LRU": 2.1844867309497396
+    },
+    {
+      "carga": 512,
+      "padrao": "sequencial",
+      "cap_mib": 128,
+      "FIFO": 100.0,
+      "LRU": 100.0
+    },
+    {
+      "carga": 512,
+      "padrao": "sequencial",
+      "cap_mib": 256,
+      "FIFO": 100.0,
+      "LRU": 100.0
+    },
+    {
+      "carga": 512,
+      "padrao": "sequencial",
+      "cap_mib": 512,
+      "FIFO": 4.368973461899479,
+      "LRU": 4.368973461899479
+    },
+    {
+      "carga": 512,
+      "padrao": "localidade",
+      "cap_mib": 128,
+      "FIFO": 9.579228976448503,
+      "LRU": 7.8458659548596295
+    },
+    {
+      "carga": 512,
+      "padrao": "localidade",
+      "cap_mib": 256,
+      "FIFO": 6.231567059902722,
+      "LRU": 5.7976763162385865
+    },
+    {
+      "carga": 512,
+      "padrao": "localidade",
+      "cap_mib": 512,
+      "FIFO": 3.9480157756634524,
+      "LRU": 3.9480157756634524
+    },
+    {
+      "carga": 512,
+      "padrao": "pseudoaleatorio",
+      "cap_mib": 128,
+      "FIFO": 75.17342963350116,
+      "LRU": 75.16426316238586
+    },
+    {
+      "carga": 512,
+      "padrao": "pseudoaleatorio",
+      "cap_mib": 256,
+      "FIFO": 50.68525204795631,
+      "LRU": 50.68321875799983
+    },
+    {
+      "carga": 512,
+      "padrao": "pseudoaleatorio",
+      "cap_mib": 512,
+      "FIFO": 4.368973461899479,
+      "LRU": 4.368973461899479
+    },
+    {
+      "carga": 768,
+      "padrao": "sequencial",
+      "cap_mib": 128,
+      "FIFO": 100.0,
+      "LRU": 100.0
+    },
+    {
+      "carga": 768,
+      "padrao": "sequencial",
+      "cap_mib": 256,
+      "FIFO": 100.0,
+      "LRU": 100.0
+    },
+    {
+      "carga": 768,
+      "padrao": "sequencial",
+      "cap_mib": 512,
+      "FIFO": 100.0,
+      "LRU": 100.0
+    },
+    {
+      "carga": 768,
+      "padrao": "localidade",
+      "cap_mib": 128,
+      "FIFO": 11.927445547828313,
+      "LRU": 8.744080126290639
+    },
+    {
+      "carga": 768,
+      "padrao": "localidade",
+      "cap_mib": 256,
+      "FIFO": 8.296922998976022,
+      "LRU": 7.3263770372898716
+    },
+    {
+      "carga": 768,
+      "padrao": "localidade",
+      "cap_mib": 512,
+      "FIFO": 5.752310617373496,
+      "LRU": 5.430250821315812
+    },
+    {
+      "carga": 768,
+      "padrao": "pseudoaleatorio",
+      "cap_mib": 128,
+      "FIFO": 83.41682044116392,
+      "LRU": 83.42462027476748
+    },
+    {
+      "carga": 768,
+      "padrao": "pseudoaleatorio",
+      "cap_mib": 256,
+      "FIFO": 67.09436865346872,
+      "LRU": 67.11443489205564
+    },
+    {
+      "carga": 768,
+      "padrao": "pseudoaleatorio",
+      "cap_mib": 512,
+      "FIFO": 35.334479531103334,
+      "LRU": 35.33757946497141
+    },
+    {
+      "carga": 1024,
+      "padrao": "sequencial",
+      "cap_mib": 128,
+      "FIFO": 100.0,
+      "LRU": 100.0
+    },
+    {
+      "carga": 1024,
+      "padrao": "sequencial",
+      "cap_mib": 256,
+      "FIFO": 100.0,
+      "LRU": 100.0
+    },
+    {
+      "carga": 1024,
+      "padrao": "sequencial",
+      "cap_mib": 512,
+      "FIFO": 100.0,
+      "LRU": 100.0
+    },
+    {
+      "carga": 1024,
+      "padrao": "localidade",
+      "cap_mib": 128,
+      "FIFO": 14.172530986005631,
+      "LRU": 9.240869528116734
+    },
+    {
+      "carga": 1024,
+      "padrao": "localidade",
+      "cap_mib": 256,
+      "FIFO": 9.89548889623688,
+      "LRU": 8.159259269135593
+    },
+    {
+      "carga": 1024,
+      "padrao": "localidade",
+      "cap_mib": 512,
+      "FIFO": 7.017383629149244,
+      "LRU": 6.584059540063145
+    },
+    {
+      "carga": 1024,
+      "padrao": "pseudoaleatorio",
+      "cap_mib": 128,
+      "FIFO": 87.68029874734957,
+      "LRU": 87.68539236768906
+    },
+    {
+      "carga": 1024,
+      "padrao": "pseudoaleatorio",
+      "cap_mib": 256,
+      "FIFO": 75.5851965066057,
+      "LRU": 75.62037323767952
+    },
+    {
+      "carga": 1024,
+      "padrao": "pseudoaleatorio",
+      "cap_mib": 512,
+      "FIFO": 52.59960722225595,
+      "LRU": 52.568334818311214
+    },
+    {
+      "carga": 1536,
+      "padrao": "sequencial",
+      "cap_mib": 128,
+      "FIFO": 100.0,
+      "LRU": 100.0
+    },
+    {
+      "carga": 1536,
+      "padrao": "sequencial",
+      "cap_mib": 256,
+      "FIFO": 100.0,
+      "LRU": 100.0
+    },
+    {
+      "carga": 1536,
+      "padrao": "sequencial",
+      "cap_mib": 512,
+      "FIFO": 100.0,
+      "LRU": 100.0
+    },
+    {
+      "carga": 1536,
+      "padrao": "localidade",
+      "cap_mib": 128,
+      "FIFO": 19.72694582515573,
+      "LRU": 9.994920108371021
+    },
+    {
+      "carga": 1536,
+      "padrao": "localidade",
+      "cap_mib": 256,
+      "FIFO": 12.093875330659612,
+      "LRU": 9.11333891543647
+    },
+    {
+      "carga": 1536,
+      "padrao": "localidade",
+      "cap_mib": 512,
+      "FIFO": 8.613016255653212,
+      "LRU": 7.960363512245072
+    },
+    {
+      "carga": 1536,
+      "padrao": "pseudoaleatorio",
+      "cap_mib": 128,
+      "FIFO": 91.83682932833877,
+      "LRU": 91.84564030637641
+    },
+    {
+      "carga": 1536,
+      "padrao": "pseudoaleatorio",
+      "cap_mib": 256,
+      "FIFO": 84.04944864796511,
+      "LRU": 84.07421778356768
+    },
+    {
+      "carga": 1536,
+      "padrao": "pseudoaleatorio",
+      "cap_mib": 512,
+      "FIFO": 69.6938868337078,
+      "LRU": 69.71579817885974
+    }
+  ],
+  "timeline": [
+    {
+      "t": 3.0548859670000184,
+      "rss": 33.5625,
+      "swap": 0.0
+    },
+    {
+      "t": 3.5589796360000037,
+      "rss": 635.515625,
+      "swap": 0.0
+    },
+    {
+      "t": 4.066687978999994,
+      "rss": 764.0390625,
+      "swap": 238.8359375
+    },
+    {
+      "t": 4.6467392739999696,
+      "rss": 755.6171875,
+      "swap": 750.67578125
+    },
+    {
+      "t": 5.116332814999964,
+      "rss": 731.43359375,
+      "swap": 805.27734375
+    },
+    {
+      "t": 5.61903466800004,
+      "rss": 725.765625,
+      "swap": 810.9453125
+    },
+    {
+      "t": 6.125516053000069,
+      "rss": 734.64453125,
+      "swap": 802.06640625
+    },
+    {
+      "t": 6.628233700999999,
+      "rss": 742.31640625,
+      "swap": 794.26953125
+    },
+    {
+      "t": 7.135189154000045,
+      "rss": 741.34765625,
+      "swap": 794.79296875
+    },
+    {
+      "t": 7.638983154000016,
+      "rss": 739.7421875,
+      "swap": 796.3984375
+    },
+    {
+      "t": 8.142855435000001,
+      "rss": 740.33203125,
+      "swap": 795.80859375
+    },
+    {
+      "t": 8.646140504000073,
+      "rss": 741.37109375,
+      "swap": 794.76953125
+    },
+    {
+      "t": 9.16362429000003,
+      "rss": 714.5859375,
+      "swap": 821.55859375
+    },
+    {
+      "t": 9.666339875000062,
+      "rss": 741.77734375,
+      "swap": 794.3515625
+    },
+    {
+      "t": 10.168425120000052,
+      "rss": 746.19140625,
+      "swap": 789.93359375
+    },
+    {
+      "t": 10.699672656000075,
+      "rss": 743.3203125,
+      "swap": 792.80078125
+    },
+    {
+      "t": 11.205668055000046,
+      "rss": 733.76953125,
+      "swap": 802.37890625
+    },
+    {
+      "t": 11.707744681999998,
+      "rss": 743.2109375,
+      "swap": 792.9375
+    },
+    {
+      "t": 12.210597761000031,
+      "rss": 741.80859375,
+      "swap": 794.33984375
+    },
+    {
+      "t": 12.717469025000014,
+      "rss": 736.5625,
+      "swap": 799.5859375
+    },
+    {
+      "t": 13.219847357000049,
+      "rss": 744.01171875,
+      "swap": 792.13671875
+    },
+    {
+      "t": 13.722102081000003,
+      "rss": 737.3984375,
+      "swap": 798.75
+    },
+    {
+      "t": 14.22455367200007,
+      "rss": 734.95703125,
+      "swap": 801.1875
+    },
+    {
+      "t": 14.727907479999999,
+      "rss": 737.43359375,
+      "swap": 798.7109375
+    },
+    {
+      "t": 15.264604510000026,
+      "rss": 745.796875,
+      "swap": 790.3203125
+    },
+    {
+      "t": 15.773818462999998,
+      "rss": 726.01171875,
+      "swap": 810.10546875
+    },
+    {
+      "t": 16.283358537000026,
+      "rss": 735.9609375,
+      "swap": 800.15625
+    },
+    {
+      "t": 16.789903594000066,
+      "rss": 735.390625,
+      "swap": 800.7265625
+    },
+    {
+      "t": 17.299042651000036,
+      "rss": 748.65625,
+      "swap": 787.4609375
+    },
+    {
+      "t": 17.80647836000003,
+      "rss": 739.2109375,
+      "swap": 796.90625
+    },
+    {
+      "t": 18.31157001300005,
+      "rss": 747.7890625,
+      "swap": 788.328125
+    },
+    {
+      "t": 18.81740310700002,
+      "rss": 737.609375,
+      "swap": 798.5078125
+    },
+    {
+      "t": 19.32290402600006,
+      "rss": 741.60546875,
+      "swap": 794.51171875
+    },
+    {
+      "t": 19.826670210999964,
+      "rss": 699.3125,
+      "swap": 836.8046875
+    },
+    {
+      "t": 20.32861339300007,
+      "rss": 707.48828125,
+      "swap": 828.62890625
+    },
+    {
+      "t": 21.67013443799999,
+      "rss": 737.30859375,
+      "swap": 798.80859375
+    },
+    {
+      "t": 22.422474713000042,
+      "rss": 736.2734375,
+      "swap": 799.84375
+    },
+    {
+      "t": 22.93238688300005,
+      "rss": 738.49609375,
+      "swap": 797.62109375
+    },
+    {
+      "t": 23.435430445000065,
+      "rss": 737.9453125,
+      "swap": 798.171875
+    },
+    {
+      "t": 24.119815104000054,
+      "rss": 737.30859375,
+      "swap": 798.80859375
+    },
+    {
+      "t": 24.65804041199999,
+      "rss": 706.93359375,
+      "swap": 829.18359375
+    },
+    {
+      "t": 25.165175225999974,
+      "rss": 704.296875,
+      "swap": 831.8203125
+    },
+    {
+      "t": 25.670999927000025,
+      "rss": 723.41015625,
+      "swap": 812.70703125
+    },
+    {
+      "t": 26.176528256999973,
+      "rss": 735.31640625,
+      "swap": 800.80078125
+    },
+    {
+      "t": 26.688244776000033,
+      "rss": 739.13671875,
+      "swap": 796.98046875
+    },
+    {
+      "t": 27.19479934800006,
+      "rss": 733.43359375,
+      "swap": 802.68359375
+    },
+    {
+      "t": 27.697801061000064,
+      "rss": 719.5859375,
+      "swap": 816.53125
+    },
+    {
+      "t": 28.200115579999988,
+      "rss": 722.94140625,
+      "swap": 813.17578125
+    },
+    {
+      "t": 28.702903889000027,
+      "rss": 721.10546875,
+      "swap": 815.01171875
+    },
+    {
+      "t": 29.21007978199998,
+      "rss": 722.1015625,
+      "swap": 814.015625
+    },
+    {
+      "t": 29.716638424000053,
+      "rss": 715.62109375,
+      "swap": 820.49609375
+    },
+    {
+      "t": 30.221802304999983,
+      "rss": 729.73828125,
+      "swap": 806.37890625
+    },
+    {
+      "t": 30.733355414000016,
+      "rss": 743.21484375,
+      "swap": 792.90234375
+    },
+    {
+      "t": 31.235945956000023,
+      "rss": 732.46484375,
+      "swap": 803.65234375
+    },
+    {
+      "t": 31.738162915999965,
+      "rss": 723.0078125,
+      "swap": 813.109375
+    },
+    {
+      "t": 32.242214372000035,
+      "rss": 725.29296875,
+      "swap": 810.82421875
+    },
+    {
+      "t": 32.746934818,
+      "rss": 709.55078125,
+      "swap": 826.56640625
+    },
+    {
+      "t": 33.25236524000002,
+      "rss": 713.7734375,
+      "swap": 822.34375
+    },
+    {
+      "t": 33.787322439000036,
+      "rss": 718.2890625,
+      "swap": 817.828125
+    },
+    {
+      "t": 34.290101306,
+      "rss": 717.0859375,
+      "swap": 819.03125
+    },
+    {
+      "t": 34.80323441100006,
+      "rss": 742.328125,
+      "swap": 793.7890625
+    },
+    {
+      "t": 35.34216205100006,
+      "rss": 730.5859375,
+      "swap": 805.53125
+    },
+    {
+      "t": 35.882407478999994,
+      "rss": 724.921875,
+      "swap": 811.1953125
+    },
+    {
+      "t": 36.38501067800007,
+      "rss": 724.6875,
+      "swap": 811.42578125
+    },
+    {
+      "t": 36.890490286000045,
+      "rss": 711.234375,
+      "swap": 824.8828125
+    },
+    {
+      "t": 37.39392507299999,
+      "rss": 705.01953125,
+      "swap": 831.09765625
+    },
+    {
+      "t": 37.89718113599997,
+      "rss": 709.03515625,
+      "swap": 827.08203125
+    },
+    {
+      "t": 38.401071039000044,
+      "rss": 712.7578125,
+      "swap": 823.359375
+    },
+    {
+      "t": 38.907252008,
+      "rss": 719.28125,
+      "swap": 816.8359375
+    },
+    {
+      "t": 39.41473508900003,
+      "rss": 726.42578125,
+      "swap": 809.69140625
+    },
+    {
+      "t": 39.917492219999986,
+      "rss": 721.796875,
+      "swap": 814.3203125
+    },
+    {
+      "t": 40.419824833999996,
+      "rss": 721.6171875,
+      "swap": 814.5
+    },
+    {
+      "t": 40.92232116399998,
+      "rss": 711.390625,
+      "swap": 824.7265625
+    },
+    {
+      "t": 41.427217337,
+      "rss": 710.34375,
+      "swap": 825.7734375
+    },
+    {
+      "t": 41.934974971999964,
+      "rss": 703.359375,
+      "swap": 832.7578125
+    },
+    {
+      "t": 42.44909583399999,
+      "rss": 682.8828125,
+      "swap": 853.234375
+    },
+    {
+      "t": 42.95213236300003,
+      "rss": 697.7421875,
+      "swap": 838.375
+    },
+    {
+      "t": 43.45578116399997,
+      "rss": 700.55078125,
+      "swap": 835.56640625
+    },
+    {
+      "t": 43.96130112900005,
+      "rss": 715.84375,
+      "swap": 820.2734375
+    },
+    {
+      "t": 44.475344466000024,
+      "rss": 710.76171875,
+      "swap": 825.35546875
+    },
+    {
+      "t": 44.97803741100006,
+      "rss": 717.7734375,
+      "swap": 818.34375
+    },
+    {
+      "t": 45.48194391200002,
+      "rss": 714.09765625,
+      "swap": 822.01953125
+    },
+    {
+      "t": 45.99094948900006,
+      "rss": 713.03515625,
+      "swap": 823.08203125
+    },
+    {
+      "t": 46.49483667800007,
+      "rss": 716.23828125,
+      "swap": 819.87890625
+    },
+    {
+      "t": 46.99817559999997,
+      "rss": 704.2265625,
+      "swap": 831.890625
+    },
+    {
+      "t": 47.501061725,
+      "rss": 703.1953125,
+      "swap": 832.921875
+    },
+    {
+      "t": 48.006290261000004,
+      "rss": 697.59765625,
+      "swap": 838.51953125
+    },
+    {
+      "t": 48.50887178200003,
+      "rss": 695.2578125,
+      "swap": 840.859375
+    },
+    {
+      "t": 49.011334508999994,
+      "rss": 689.7890625,
+      "swap": 846.328125
+    },
+    {
+      "t": 49.51364611700001,
+      "rss": 692.7109375,
+      "swap": 843.40625
+    },
+    {
+      "t": 50.021450120000054,
+      "rss": 698.03515625,
+      "swap": 838.08203125
+    },
+    {
+      "t": 50.52389028499999,
+      "rss": 704.97265625,
+      "swap": 831.14453125
+    },
+    {
+      "t": 51.02744147400006,
+      "rss": 705.796875,
+      "swap": 830.3203125
+    },
+    {
+      "t": 51.53344827900003,
+      "rss": 701.01953125,
+      "swap": 835.09765625
+    },
+    {
+      "t": 52.064389953000045,
+      "rss": 668.65625,
+      "swap": 867.4609375
+    },
+    {
+      "t": 52.567353257000036,
+      "rss": 674.5078125,
+      "swap": 861.609375
+    },
+    {
+      "t": 53.07693711000002,
+      "rss": 680.9296875,
+      "swap": 855.1875
+    },
+    {
+      "t": 53.58187750800005,
+      "rss": 673.28515625,
+      "swap": 862.83203125
+    },
+    {
+      "t": 54.09838373100001,
+      "rss": 669.4453125,
+      "swap": 866.671875
+    },
+    {
+      "t": 54.601331508000044,
+      "rss": 668.41015625,
+      "swap": 867.70703125
+    },
+    {
+      "t": 55.10709207100001,
+      "rss": 675.8359375,
+      "swap": 860.28125
+    },
+    {
+      "t": 55.616194995,
+      "rss": 689.078125,
+      "swap": 847.0390625
+    },
+    {
+      "t": 56.124626079999985,
+      "rss": 696.28125,
+      "swap": 839.8359375
+    },
+    {
+      "t": 56.62825211200004,
+      "rss": 689.984375,
+      "swap": 846.1328125
+    },
+    {
+      "t": 57.14926497900001,
+      "rss": 685.265625,
+      "swap": 850.8515625
+    },
+    {
+      "t": 57.652279057999976,
+      "rss": 674.78125,
+      "swap": 861.3359375
+    },
+    {
+      "t": 58.169996379000054,
+      "rss": 677.27734375,
+      "swap": 858.83984375
+    },
+    {
+      "t": 58.68161995600008,
+      "rss": 672.0,
+      "swap": 864.1171875
+    },
+    {
+      "t": 59.19275169900004,
+      "rss": 668.515625,
+      "swap": 867.6015625
+    },
+    {
+      "t": 59.719053892000034,
+      "rss": 664.58984375,
+      "swap": 871.52734375
+    },
+    {
+      "t": 60.226675021000005,
+      "rss": 676.0625,
+      "swap": 860.0546875
+    },
+    {
+      "t": 60.758152919000054,
+      "rss": 673.80078125,
+      "swap": 862.31640625
+    },
+    {
+      "t": 61.26249996299998,
+      "rss": 672.390625,
+      "swap": 863.7265625
+    },
+    {
+      "t": 61.76953285900004,
+      "rss": 678.46484375,
+      "swap": 857.65234375
+    },
+    {
+      "t": 62.278975565999986,
+      "rss": 681.48828125,
+      "swap": 854.62890625
+    },
+    {
+      "t": 62.78443391999997,
+      "rss": 682.78515625,
+      "swap": 853.33203125
+    },
+    {
+      "t": 63.287040735999994,
+      "rss": 682.0078125,
+      "swap": 854.109375
+    },
+    {
+      "t": 63.78935425899999,
+      "rss": 663.80859375,
+      "swap": 872.30859375
+    },
+    {
+      "t": 64.29170538400001,
+      "rss": 664.55078125,
+      "swap": 871.56640625
+    },
+    {
+      "t": 64.80677229100002,
+      "rss": 0.81640625,
+      "swap": 0.0390625
+    }
+  ],
+  "io": [
+    {
+      "t": 0.0,
+      "entrada": 0.0,
+      "saida": 0.0
+    },
+    {
+      "t": 0.501281554000002,
+      "entrada": 0.0,
+      "saida": 0.0
+    },
+    {
+      "t": 1.0034140159999652,
+      "entrada": 0.0,
+      "saida": 0.0
+    },
+    {
+      "t": 1.504446397000038,
+      "entrada": 0.0,
+      "saida": 0.0
+    },
+    {
+      "t": 2.0054112750000286,
+      "entrada": 0.0,
+      "saida": 0.0
+    },
+    {
+      "t": 2.507221278999964,
+      "entrada": 0.0,
+      "saida": 0.0
+    },
+    {
+      "t": 3.0548859670000184,
+      "entrada": 0.46484375,
+      "saida": 0.0
+    },
+    {
+      "t": 3.5589796360000037,
+      "entrada": 0.46875,
+      "saida": 0.0
+    },
+    {
+      "t": 4.066687978999994,
+      "entrada": 0.484375,
+      "saida": 237.390625
+    },
+    {
+      "t": 4.6467392739999696,
+      "entrada": 0.49609375,
+      "saida": 751.7578125
+    },
+    {
+      "t": 5.116332814999964,
+      "entrada": 26.8515625,
+      "saida": 828.875
+    },
+    {
+      "t": 5.61903466800004,
+      "entrada": 64.87890625,
+      "saida": 868.41015625
+    },
+    {
+      "t": 6.125516053000069,
+      "entrada": 164.9765625,
+      "saida": 957.8125
+    },
+    {
+      "t": 6.628233700999999,
+      "entrada": 259.88671875,
+      "saida": 1044.89453125
+    },
+    {
+      "t": 7.135189154000045,
+      "entrada": 378.12890625,
+      "saida": 1161.22265625
+    },
+    {
+      "t": 7.638983154000016,
+      "entrada": 483.44921875,
+      "saida": 1266.5703125
+    },
+    {
+      "t": 8.142855435000001,
+      "entrada": 598.73046875,
+      "saida": 1378.8203125
+    },
+    {
+      "t": 8.646140504000073,
+      "entrada": 709.3515625,
+      "saida": 1488.55859375
+    },
+    {
+      "t": 9.16362429000003,
+      "entrada": 816.625,
+      "saida": 1621.46484375
+    },
+    {
+      "t": 9.666339875000062,
+      "entrada": 944.73828125,
+      "saida": 1722.8984375
+    },
+    {
+      "t": 10.168425120000052,
+      "entrada": 1066.50390625,
+      "saida": 1836.94921875
+    },
+    {
+      "t": 10.699672656000075,
+      "entrada": 1183.8203125,
+      "saida": 1954.0078125
+    },
+    {
+      "t": 11.205668055000046,
+      "entrada": 1288.734375,
+      "saida": 2066.51953125
+    },
+    {
+      "t": 11.707744681999998,
+      "entrada": 1389.046875,
+      "saida": 2155.70703125
+    },
+    {
+      "t": 12.210597761000031,
+      "entrada": 1488.265625,
+      "saida": 2254.28125
+    },
+    {
+      "t": 12.717469025000014,
+      "entrada": 1575.23828125,
+      "saida": 2342.96484375
+    },
+    {
+      "t": 13.219847357000049,
+      "entrada": 1674.18359375,
+      "saida": 2428.09375
+    },
+    {
+      "t": 13.722102081000003,
+      "entrada": 1772.96875,
+      "saida": 2531.67578125
+    },
+    {
+      "t": 14.22455367200007,
+      "entrada": 1884.85546875,
+      "saida": 2644.0859375
+    },
+    {
+      "t": 14.727907479999999,
+      "entrada": 1981.40234375,
+      "saida": 2736.703125
+    },
+    {
+      "t": 15.264604510000026,
+      "entrada": 2062.75390625,
+      "saida": 2808.96484375
+    },
+    {
+      "t": 15.773818462999998,
+      "entrada": 2117.671875,
+      "saida": 2882.80078125
+    },
+    {
+      "t": 16.283358537000026,
+      "entrada": 2151.5234375,
+      "saida": 2906.26171875
+    },
+    {
+      "t": 16.789903594000066,
+      "entrada": 2198.03515625,
+      "saida": 2953.23828125
+    },
+    {
+      "t": 17.299042651000036,
+      "entrada": 2266.5390625,
+      "saida": 3007.46875
+    },
+    {
+      "t": 17.80647836000003,
+      "entrada": 2331.67578125,
+      "saida": 3079.4375
+    },
+    {
+      "t": 18.31157001300005,
+      "entrada": 2410.55078125,
+      "saida": 3148.375
+    },
+    {
+      "t": 18.81740310700002,
+      "entrada": 2492.7890625,
+      "saida": 3239.0859375
+    },
+    {
+      "t": 19.32290402600006,
+      "entrada": 2577.79296875,
+      "saida": 3316.6015625
+    },
+    {
+      "t": 19.826670210999964,
+      "entrada": 2669.17578125,
+      "saida": 3442.671875
+    },
+    {
+      "t": 20.32861339300007,
+      "entrada": 2770.15625,
+      "saida": 3533.71484375
+    },
+    {
+      "t": 21.67013443799999,
+      "entrada": 3041.265625,
+      "saida": 3773.3671875
+    },
+    {
+      "t": 22.422474713000042,
+      "entrada": 3139.03125,
+      "saida": 3865.0703125
+    },
+    {
+      "t": 22.93238688300005,
+      "entrada": 3217.65234375,
+      "saida": 3935.40234375
+    },
+    {
+      "t": 23.435430445000065,
+      "entrada": 3304.6328125,
+      "saida": 4021.265625
+    },
+    {
+      "t": 24.119815104000054,
+      "entrada": 3432.63671875,
+      "saida": 4147.01953125
+    },
+    {
+      "t": 24.65804041199999,
+      "entrada": 3515.2890625,
+      "saida": 4251.33984375
+    },
+    {
+      "t": 25.165175225999974,
+      "entrada": 3599.59375,
+      "saida": 4338.43359375
+    },
+    {
+      "t": 25.670999927000025,
+      "entrada": 3696.71484375,
+      "saida": 4416.41796875
+    },
+    {
+      "t": 26.176528256999973,
+      "entrada": 3791.109375,
+      "saida": 4499.9609375
+    },
+    {
+      "t": 26.688244776000033,
+      "entrada": 3870.39453125,
+      "saida": 4566.75
+    },
+    {
+      "t": 27.19479934800006,
+      "entrada": 3942.15234375,
+      "saida": 4643.51953125
+    },
+    {
+      "t": 27.697801061000064,
+      "entrada": 4033.06640625,
+      "saida": 4744.5546875
+    },
+    {
+      "t": 28.200115579999988,
+      "entrada": 4132.3984375,
+      "saida": 4834.4609375
+    },
+    {
+      "t": 28.702903889000027,
+      "entrada": 4232.2109375,
+      "saida": 4931.26171875
+    },
+    {
+      "t": 29.21007978199998,
+      "entrada": 4330.39453125,
+      "saida": 5024.1875
+    },
+    {
+      "t": 29.716638424000053,
+      "entrada": 4427.296875,
+      "saida": 5128.00390625
+    },
+    {
+      "t": 30.221802304999983,
+      "entrada": 4519.8359375,
+      "saida": 5208.01171875
+    },
+    {
+      "t": 30.733355414000016,
+      "entrada": 4611.6875,
+      "saida": 5285.1171875
+    },
+    {
+      "t": 31.235945956000023,
+      "entrada": 4699.80859375,
+      "saida": 5376.1640625
+    },
+    {
+      "t": 31.738162915999965,
+      "entrada": 4796.671875,
+      "saida": 5473.06640625
+    },
+    {
+      "t": 32.242214372000035,
+      "entrada": 4884.83984375,
+      "saida": 5555.1640625
+    },
+    {
+      "t": 32.746934818,
+      "entrada": 4981.37890625,
+      "saida": 5662.84375
+    },
+    {
+      "t": 33.25236524000002,
+      "entrada": 5073.0859375,
+      "saida": 5744.6328125
+    },
+    {
+      "t": 33.787322439000036,
+      "entrada": 5170.0859375,
+      "saida": 5834.73046875
+    },
+    {
+      "t": 34.290101306,
+      "entrada": 5269.45703125,
+      "saida": 5936.20703125
+    },
+    {
+      "t": 34.80323441100006,
+      "entrada": 5355.3828125,
+      "saida": 5994.26953125
+    },
+    {
+      "t": 35.34216205100006,
+      "entrada": 5423.34375,
+      "saida": 6068.82421875
+    },
+    {
+      "t": 35.882407478999994,
+      "entrada": 5502.02734375,
+      "saida": 6144.88671875
+    },
+    {
+      "t": 36.38501067800007,
+      "entrada": 5597.7109375,
+      "saida": 6234.31640625
+    },
+    {
+      "t": 36.890490286000045,
+      "entrada": 5697.0625,
+      "saida": 6337.60546875
+    },
+    {
+      "t": 37.39392507299999,
+      "entrada": 5783.9921875,
+      "saida": 6424.85546875
+    },
+    {
+      "t": 37.89718113599997,
+      "entrada": 5855.43359375,
+      "saida": 6486.76171875
+    },
+    {
+      "t": 38.401071039000044,
+      "entrada": 5956.15625,
+      "saida": 6579.171875
+    },
+    {
+      "t": 38.907252008,
+      "entrada": 6053.921875,
+      "saida": 6670.16796875
+    },
+    {
+      "t": 39.41473508900003,
+      "entrada": 6141.11328125,
+      "saida": 6745.328125
+    },
+    {
+      "t": 39.917492219999986,
+      "entrada": 6228.0859375,
+      "saida": 6829.80859375
+    },
+    {
+      "t": 40.419824833999996,
+      "entrada": 6313.64453125,
+      "saida": 6907.76171875
+    },
+    {
+      "t": 40.92232116399998,
+      "entrada": 6399.0390625,
+      "saida": 6992.37109375
+    },
+    {
+      "t": 41.427217337,
+      "entrada": 6490.23828125,
+      "saida": 7077.2265625
+    },
+    {
+      "t": 41.934974971999964,
+      "entrada": 6578.18359375,
+      "saida": 7165.52734375
+    },
+    {
+      "t": 42.44909583399999,
+      "entrada": 6665.7109375,
+      "saida": 7267.48828125
+    },
+    {
+      "t": 42.95213236300003,
+      "entrada": 6728.7265625,
+      "saida": 7312.16796875
+    },
+    {
+      "t": 43.45578116399997,
+      "entrada": 6795.34375,
+      "saida": 7373.97265625
+    },
+    {
+      "t": 43.96130112900005,
+      "entrada": 6851.06640625,
+      "saida": 7411.21484375
+    },
+    {
+      "t": 44.475344466000024,
+      "entrada": 6911.703125,
+      "saida": 7472.09765625
+    },
+    {
+      "t": 44.97803741100006,
+      "entrada": 6967.1484375,
+      "saida": 7514.48828125
+    },
+    {
+      "t": 45.48194391200002,
+      "entrada": 6999.97265625,
+      "saida": 7547.24609375
+    },
+    {
+      "t": 45.99094948900006,
+      "entrada": 7037.71875,
+      "saida": 7582.6640625
+    },
+    {
+      "t": 46.49483667800007,
+      "entrada": 7088.3828125,
+      "saida": 7625.48828125
+    },
+    {
+      "t": 46.99817559999997,
+      "entrada": 7149.5,
+      "saida": 7691.29296875
+    },
+    {
+      "t": 47.501061725,
+      "entrada": 7222.84375,
+      "saida": 7760.0234375
+    },
+    {
+      "t": 48.006290261000004,
+      "entrada": 7313.515625,
+      "saida": 7845.09765625
+    },
+    {
+      "t": 48.50887178200003,
+      "entrada": 7385.94140625,
+      "saida": 7914.671875
+    },
+    {
+      "t": 49.011334508999994,
+      "entrada": 7471.43359375,
+      "saida": 7997.859375
+    },
+    {
+      "t": 49.51364611700001,
+      "entrada": 7552.828125,
+      "saida": 8071.54296875
+    },
+    {
+      "t": 50.021450120000054,
+      "entrada": 7632.93359375,
+      "saida": 8138.5859375
+    },
+    {
+      "t": 50.52389028499999,
+      "entrada": 7699.8359375,
+      "saida": 8188.5546875
+    },
+    {
+      "t": 51.02744147400006,
+      "entrada": 7769.3359375,
+      "saida": 8248.2890625
+    },
+    {
+      "t": 51.53344827900003,
+      "entrada": 7848.80078125,
+      "saida": 8324.09765625
+    },
+    {
+      "t": 52.064389953000045,
+      "entrada": 7929.078125,
+      "saida": 8426.32421875
+    },
+    {
+      "t": 52.567353257000036,
+      "entrada": 8006.84375,
+      "saida": 8489.984375
+    },
+    {
+      "t": 53.07693711000002,
+      "entrada": 8082.46484375,
+      "saida": 8550.09375
+    },
+    {
+      "t": 53.58187750800005,
+      "entrada": 8151.96875,
+      "saida": 8623.0390625
+    },
+    {
+      "t": 54.09838373100001,
+      "entrada": 8214.35546875,
+      "saida": 8684.9609375
+    },
+    {
+      "t": 54.601331508000044,
+      "entrada": 8275.33203125,
+      "saida": 8740.8984375
+    },
+    {
+      "t": 55.10709207100001,
+      "entrada": 8340.0625,
+      "saida": 8792.5234375
+    },
+    {
+      "t": 55.616194995,
+      "entrada": 8400.09375,
+      "saida": 8831.9765625
+    },
+    {
+      "t": 56.124626079999985,
+      "entrada": 8452.3046875,
+      "saida": 8868.421875
+    },
+    {
+      "t": 56.62825211200004,
+      "entrada": 8506.48828125,
+      "saida": 8920.5078125
+    },
+    {
+      "t": 57.14926497900001,
+      "entrada": 8565.6484375,
+      "saida": 8974.93359375
+    },
+    {
+      "t": 57.652279057999976,
+      "entrada": 8621.9375,
+      "saida": 9035.3828125
+    },
+    {
+      "t": 58.169996379000054,
+      "entrada": 8679.78125,
+      "saida": 9085.12890625
+    },
+    {
+      "t": 58.68161995600008,
+      "entrada": 8747.3046875,
+      "saida": 9150.5859375
+    },
+    {
+      "t": 59.19275169900004,
+      "entrada": 8815.9921875,
+      "saida": 9215.46875
+    },
+    {
+      "t": 59.719053892000034,
+      "entrada": 8881.3515625,
+      "saida": 9278.16796875
+    },
+    {
+      "t": 60.226675021000005,
+      "entrada": 8948.453125,
+      "saida": 9329.30859375
+    },
+    {
+      "t": 60.758152919000054,
+      "entrada": 9016.94140625,
+      "saida": 9392.24609375
+    },
+    {
+      "t": 61.26249996299998,
+      "entrada": 9072.34765625,
+      "saida": 9443.54296875
+    },
+    {
+      "t": 61.76953285900004,
+      "entrada": 9129.3828125,
+      "saida": 9487.515625
+    },
+    {
+      "t": 62.278975565999986,
+      "entrada": 9190.19140625,
+      "saida": 9536.60546875
+    },
+    {
+      "t": 62.78443391999997,
+      "entrada": 9254.24609375,
+      "saida": 9586.83203125
+    },
+    {
+      "t": 63.287040735999994,
+      "entrada": 9311.76953125,
+      "saida": 9634.8984375
+    },
+    {
+      "t": 63.78935425899999,
+      "entrada": 9367.3046875,
+      "saida": 9698.25
+    },
+    {
+      "t": 64.29170538400001,
+      "entrada": 9430.046875,
+      "saida": 9749.88671875
+    },
+    {
+      "t": 64.80677229100002,
+      "entrada": 9491.3671875,
+      "saida": 9796.18359375
+    },
+    {
+      "t": 64.82564044100002,
+      "entrada": 9491.46484375,
+      "saida": 9796.18359375
+    },
+    {
+      "t": 65.32715693,
+      "entrada": 9491.46484375,
+      "saida": 9796.18359375
+    },
+    {
+      "t": 65.82894126500003,
+      "entrada": 9491.46484375,
+      "saida": 9796.18359375
+    },
+    {
+      "t": 66.330188314,
+      "entrada": 9491.46484375,
+      "saida": 9796.18359375
+    },
+    {
+      "t": 66.83200140100007,
+      "entrada": 9491.46484375,
+      "saida": 9796.18359375
+    },
+    {
+      "t": 67.33389136900007,
+      "entrada": 9491.46484375,
+      "saida": 9796.18359375
+    }
+  ],
+  "casos": 45,
+  "acessos": 121940224,
+  "simulacoes": 270,
+  "casos_com_swap": 30,
+  "amostras": 5960,
+  "psi": [
+    {
+      "caso": "0256MiB_localidade_r1",
+      "carga": 256,
+      "padrao": "localidade",
+      "some_stall_s": 0.0,
+      "full_stall_s": 0.0
+    },
+    {
+      "caso": "0256MiB_localidade_r2",
+      "carga": 256,
+      "padrao": "localidade",
+      "some_stall_s": 0.00606,
+      "full_stall_s": 0.00606
+    },
+    {
+      "caso": "0256MiB_localidade_r3",
+      "carga": 256,
+      "padrao": "localidade",
+      "some_stall_s": 0.0,
+      "full_stall_s": 0.0
+    },
+    {
+      "caso": "0256MiB_pseudoaleatorio_r1",
+      "carga": 256,
+      "padrao": "pseudoaleatorio",
+      "some_stall_s": 0.0,
+      "full_stall_s": 0.0
+    },
+    {
+      "caso": "0256MiB_pseudoaleatorio_r2",
+      "carga": 256,
+      "padrao": "pseudoaleatorio",
+      "some_stall_s": 0.0,
+      "full_stall_s": 0.0
+    },
+    {
+      "caso": "0256MiB_pseudoaleatorio_r3",
+      "carga": 256,
+      "padrao": "pseudoaleatorio",
+      "some_stall_s": 0.002329,
+      "full_stall_s": 0.002256
+    },
+    {
+      "caso": "0256MiB_sequencial_r1",
+      "carga": 256,
+      "padrao": "sequencial",
+      "some_stall_s": 0.000497,
+      "full_stall_s": 0.000496
+    },
+    {
+      "caso": "0256MiB_sequencial_r2",
+      "carga": 256,
+      "padrao": "sequencial",
+      "some_stall_s": 0.0,
+      "full_stall_s": 0.0
+    },
+    {
+      "caso": "0256MiB_sequencial_r3",
+      "carga": 256,
+      "padrao": "sequencial",
+      "some_stall_s": 0.0,
+      "full_stall_s": 0.0
+    },
+    {
+      "caso": "0512MiB_localidade_r1",
+      "carga": 512,
+      "padrao": "localidade",
+      "some_stall_s": 0.032215,
+      "full_stall_s": 0.030351
+    },
+    {
+      "caso": "0512MiB_localidade_r2",
+      "carga": 512,
+      "padrao": "localidade",
+      "some_stall_s": 0.015822,
+      "full_stall_s": 0.015248
+    },
+    {
+      "caso": "0512MiB_localidade_r3",
+      "carga": 512,
+      "padrao": "localidade",
+      "some_stall_s": 0.0,
+      "full_stall_s": 0.0
+    },
+    {
+      "caso": "0512MiB_pseudoaleatorio_r1",
+      "carga": 512,
+      "padrao": "pseudoaleatorio",
+      "some_stall_s": 4.915465,
+      "full_stall_s": 4.666547
+    },
+    {
+      "caso": "0512MiB_pseudoaleatorio_r2",
+      "carga": 512,
+      "padrao": "pseudoaleatorio",
+      "some_stall_s": 0.0,
+      "full_stall_s": 0.0
+    },
+    {
+      "caso": "0512MiB_pseudoaleatorio_r3",
+      "carga": 512,
+      "padrao": "pseudoaleatorio",
+      "some_stall_s": 0.01392,
+      "full_stall_s": 0.013776
+    },
+    {
+      "caso": "0512MiB_sequencial_r1",
+      "carga": 512,
+      "padrao": "sequencial",
+      "some_stall_s": 0.13628,
+      "full_stall_s": 0.123439
+    },
+    {
+      "caso": "0512MiB_sequencial_r2",
+      "carga": 512,
+      "padrao": "sequencial",
+      "some_stall_s": 0.0,
+      "full_stall_s": 0.0
+    },
+    {
+      "caso": "0512MiB_sequencial_r3",
+      "carga": 512,
+      "padrao": "sequencial",
+      "some_stall_s": 0.0,
+      "full_stall_s": 0.0
+    },
+    {
+      "caso": "0768MiB_localidade_r1",
+      "carga": 768,
+      "padrao": "localidade",
+      "some_stall_s": 4.247226,
+      "full_stall_s": 4.070041
+    },
+    {
+      "caso": "0768MiB_localidade_r2",
+      "carga": 768,
+      "padrao": "localidade",
+      "some_stall_s": 0.095636,
+      "full_stall_s": 0.092458
+    },
+    {
+      "caso": "0768MiB_localidade_r3",
+      "carga": 768,
+      "padrao": "localidade",
+      "some_stall_s": 0.059607,
+      "full_stall_s": 0.059046
+    },
+    {
+      "caso": "0768MiB_pseudoaleatorio_r1",
+      "carga": 768,
+      "padrao": "pseudoaleatorio",
+      "some_stall_s": 3.399234,
+      "full_stall_s": 3.38642
+    },
+    {
+      "caso": "0768MiB_pseudoaleatorio_r2",
+      "carga": 768,
+      "padrao": "pseudoaleatorio",
+      "some_stall_s": 7.215051,
+      "full_stall_s": 7.179054
+    },
+    {
+      "caso": "0768MiB_pseudoaleatorio_r3",
+      "carga": 768,
+      "padrao": "pseudoaleatorio",
+      "some_stall_s": 7.577786,
+      "full_stall_s": 7.552647
+    },
+    {
+      "caso": "0768MiB_sequencial_r1",
+      "carga": 768,
+      "padrao": "sequencial",
+      "some_stall_s": 7.880911,
+      "full_stall_s": 7.376204
+    },
+    {
+      "caso": "0768MiB_sequencial_r2",
+      "carga": 768,
+      "padrao": "sequencial",
+      "some_stall_s": 12.328456,
+      "full_stall_s": 12.261022
+    },
+    {
+      "caso": "0768MiB_sequencial_r3",
+      "carga": 768,
+      "padrao": "sequencial",
+      "some_stall_s": 13.175101,
+      "full_stall_s": 13.083935
+    },
+    {
+      "caso": "1024MiB_localidade_r1",
+      "carga": 1024,
+      "padrao": "localidade",
+      "some_stall_s": 0.59675,
+      "full_stall_s": 0.57989
+    },
+    {
+      "caso": "1024MiB_localidade_r2",
+      "carga": 1024,
+      "padrao": "localidade",
+      "some_stall_s": 0.485733,
+      "full_stall_s": 0.472137
+    },
+    {
+      "caso": "1024MiB_localidade_r3",
+      "carga": 1024,
+      "padrao": "localidade",
+      "some_stall_s": 2.38606,
+      "full_stall_s": 2.333191
+    },
+    {
+      "caso": "1024MiB_pseudoaleatorio_r1",
+      "carga": 1024,
+      "padrao": "pseudoaleatorio",
+      "some_stall_s": 7.169539,
+      "full_stall_s": 7.110811
+    },
+    {
+      "caso": "1024MiB_pseudoaleatorio_r2",
+      "carga": 1024,
+      "padrao": "pseudoaleatorio",
+      "some_stall_s": 7.404419,
+      "full_stall_s": 7.352519
+    },
+    {
+      "caso": "1024MiB_pseudoaleatorio_r3",
+      "carga": 1024,
+      "padrao": "pseudoaleatorio",
+      "some_stall_s": 7.595907,
+      "full_stall_s": 7.544914
+    },
+    {
+      "caso": "1024MiB_sequencial_r1",
+      "carga": 1024,
+      "padrao": "sequencial",
+      "some_stall_s": 4.999563,
+      "full_stall_s": 4.964221
+    },
+    {
+      "caso": "1024MiB_sequencial_r2",
+      "carga": 1024,
+      "padrao": "sequencial",
+      "some_stall_s": 5.734738,
+      "full_stall_s": 5.69628
+    },
+    {
+      "caso": "1024MiB_sequencial_r3",
+      "carga": 1024,
+      "padrao": "sequencial",
+      "some_stall_s": 5.196917,
+      "full_stall_s": 5.159885
+    },
+    {
+      "caso": "1536MiB_localidade_r1",
+      "carga": 1536,
+      "padrao": "localidade",
+      "some_stall_s": 1.521782,
+      "full_stall_s": 1.479117
+    },
+    {
+      "caso": "1536MiB_localidade_r2",
+      "carga": 1536,
+      "padrao": "localidade",
+      "some_stall_s": 1.583418,
+      "full_stall_s": 1.517244
+    },
+    {
+      "caso": "1536MiB_localidade_r3",
+      "carga": 1536,
+      "padrao": "localidade",
+      "some_stall_s": 1.466629,
+      "full_stall_s": 1.393611
+    },
+    {
+      "caso": "1536MiB_pseudoaleatorio_r1",
+      "carga": 1536,
+      "padrao": "pseudoaleatorio",
+      "some_stall_s": 2.946582,
+      "full_stall_s": 2.90244
+    },
+    {
+      "caso": "1536MiB_pseudoaleatorio_r2",
+      "carga": 1536,
+      "padrao": "pseudoaleatorio",
+      "some_stall_s": 3.3492,
+      "full_stall_s": 3.291747
+    },
+    {
+      "caso": "1536MiB_pseudoaleatorio_r3",
+      "carga": 1536,
+      "padrao": "pseudoaleatorio",
+      "some_stall_s": 3.464289,
+      "full_stall_s": 3.393025
+    },
+    {
+      "caso": "1536MiB_sequencial_r1",
+      "carga": 1536,
+      "padrao": "sequencial",
+      "some_stall_s": 4.915119,
+      "full_stall_s": 4.852619
+    },
+    {
+      "caso": "1536MiB_sequencial_r2",
+      "carga": 1536,
+      "padrao": "sequencial",
+      "some_stall_s": 5.801182,
+      "full_stall_s": 5.739159
+    },
+    {
+      "caso": "1536MiB_sequencial_r3",
+      "carga": 1536,
+      "padrao": "sequencial",
+      "some_stall_s": 6.440983,
+      "full_stall_s": 6.380213
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+# Ambientes locais e caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Coletas auxiliares e interrompidas
+vram/resultados_vram/piloto/
+.interrompidos/
+
+# Binario CUDA gerado localmente (nao excluir resultados)
+vram/resultados_vram/**/carga
+vram/resultados_vram/**/carga_vram

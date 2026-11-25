@@ -1,0 +1,3 @@
+{"evento":"inicializacao","pid":12793,"pagina_bytes":4096,"paginas":393216,"nohugepage_ok":true,"monotonic_s":1677.652539410}
+{"evento":"acessos","inicializacao_s":1.272424521,"minflt_inicio":393278,"majflt_inicio":6,"monotonic_s":1678.923504809}
+{"evento":"fim","interrompido":false,"acessos":780288,"duracao_real_s":60.012174852,"hash_paginas":"328432a59c60f6df","checksum":99481806,"minor_faults_acessos":708,"major_faults_acessos":398664,"maxrss_kib":791332,"monotonic_s":1738.938296905}

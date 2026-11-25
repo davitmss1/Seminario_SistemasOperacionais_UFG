@@ -1,0 +1,3 @@
+# Opcional: somente para linux_memoria/graficos.py.
+# Coleta e análise Linux usam Python padrão e gcc.
+matplotlib==3.11.2

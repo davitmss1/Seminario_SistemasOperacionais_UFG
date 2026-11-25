@@ -1,0 +1,1112 @@
+[
+  {
+    "arquivo": "codigo_apresentacao/atualizar_slides_ram.js",
+    "bytes": 7633,
+    "sha256": "b4bd9cd0ee4bee1bba5a6cee1f6c355b38b697bd825d5e62c848d231f9a2a1a1"
+  },
+  {
+    "arquivo": "codigo_apresentacao/criar_roteiro.py",
+    "bytes": 3838,
+    "sha256": "e98c22f058c7918ac2c6ccf0aa7fe54f19fbacd955f3823f49addae81eabdaaa"
+  },
+  {
+    "arquivo": "documentos/ROTEIRO_APRESENTACAO_7_MINUTOS.pdf",
+    "bytes": 83682,
+    "sha256": "7b1d614cf594fceb0ed00b57397ff81b229196c79d4f4ef1026bb4f8fb927c32"
+  },
+  {
+    "arquivo": "imagens/slides/slide_01.png",
+    "bytes": 116339,
+    "sha256": "678acc5fcb50f064915aac3c4051ca3db4c415e5ad9e90c958deac0fa214323e"
+  },
+  {
+    "arquivo": "imagens/slides/slide_02.png",
+    "bytes": 113425,
+    "sha256": "2cac762a4eec0a075794c33544f8961b57bb35bbd26278b03010ef057a8ffc50"
+  },
+  {
+    "arquivo": "imagens/slides/slide_03.png",
+    "bytes": 127800,
+    "sha256": "87cd618af5b937d7b5e1210e53cabfac9dcf5e0ad9c38856e53ad69ef87b5ac3"
+  },
+  {
+    "arquivo": "imagens/slides/slide_04.png",
+    "bytes": 127511,
+    "sha256": "a16ee8d9144c8e30d6ae0f580e51ce71020391d09b014142a2edb61adee6e9bf"
+  },
+  {
+    "arquivo": "imagens/slides/slide_05.png",
+    "bytes": 124970,
+    "sha256": "48c7e09c0345809c85c4c264359b5412b6aa3b31cf5136a2fef1d4f8bf2b6014"
+  },
+  {
+    "arquivo": "imagens/slides/slide_06.png",
+    "bytes": 116222,
+    "sha256": "72a67479bac496897ad2bc8169bdf9dff755544ba641199cc50d02fa6b29866c"
+  },
+  {
+    "arquivo": "imagens/slides/slide_07.png",
+    "bytes": 119920,
+    "sha256": "2e60beefb961a509e3bf3903717b8b2b4b0047cf4bab9a84d5b41dcbfdb0c776"
+  },
+  {
+    "arquivo": "imagens/slides/slide_08.png",
+    "bytes": 123400,
+    "sha256": "8bda7f6c32c03e364e18f22cfc33db86f53cb4d0f345e068332521f3437207ab"
+  },
+  {
+    "arquivo": "imagens/slides/slide_09.png",
+    "bytes": 137469,
+    "sha256": "759ca7368fffa4efd6f02099b19cbcde6fc91cda632ab5274490efa4f69cf60d"
+  },
+  {
+    "arquivo": "imagens/slides/slide_10.png",
+    "bytes": 124342,
+    "sha256": "70751de4bb44cc990efdde559a07fa4091181bb5b140574b06daef944f7ddd86"
+  },
+  {
+    "arquivo": "imagens/slides/slide_11.png",
+    "bytes": 105814,
+    "sha256": "fd5a9bcdb3e7d7dd43b5137d47e429472995caf47c49d8f7c7063a0f6a08d60a"
+  },
+  {
+    "arquivo": "imagens/slides/slide_12.png",
+    "bytes": 112621,
+    "sha256": "ecb81017e221a4b0d9dd311538e06493125118e2df563028454bfa952de8ac11"
+  },
+  {
+    "arquivo": "imagens/slides/slide_13.png",
+    "bytes": 161755,
+    "sha256": "b36fd1b640af3ac3a579bfdc5a122a6815571fb2f6347c1c151b981930ae5c92"
+  },
+  {
+    "arquivo": "imagens/slides/slide_14.png",
+    "bytes": 133920,
+    "sha256": "8601d9f59cef843ac3597ca8505f38f165b56b18eab47d9954cba5b254ded87e"
+  },
+  {
+    "arquivo": "LEIA-ME.md",
+    "bytes": 3294,
+    "sha256": "908a849d46a07db3e3489aee08c7bee8bdb8e8b1a0266c9a697bc472a29f9683"
+  },
+  {
+    "arquivo": "linux_memoria/analisar.py",
+    "bytes": 9211,
+    "sha256": "ce1c1056af918edcfdbce52b23861c84ca95e703cdb5fac01478f8002a4f5f50"
+  },
+  {
+    "arquivo": "linux_memoria/atualizar_roteiro_ram.py",
+    "bytes": 8217,
+    "sha256": "887a5df33add69add8204b32610b5cf5d033ebfd9c64ca08ec8420a7a1c94ac8"
+  },
+  {
+    "arquivo": "linux_memoria/carga.c",
+    "bytes": 4107,
+    "sha256": "51867c659f0e49683189b3bb44f24dd7b036d8322715db502ff5907f60ad83e3"
+  },
+  {
+    "arquivo": "linux_memoria/coletar.py",
+    "bytes": 10038,
+    "sha256": "263e1a81a3599a6ef2d6f41b89ba9255901456342976ef7493c490f25a6420c8"
+  },
+  {
+    "arquivo": "linux_memoria/comum.py",
+    "bytes": 1793,
+    "sha256": "4e1a2e7eb1eae04fe796033d5696ae72971b08d7e8410002012d5b23e3021782"
+  },
+  {
+    "arquivo": "linux_memoria/configurar_wsl.py",
+    "bytes": 2800,
+    "sha256": "50df2aaccdc91b622a0108fefb4927176aa7993e257ffd7a5ba0ea9cae5f8555"
+  },
+  {
+    "arquivo": "linux_memoria/documentar_coleta.py",
+    "bytes": 8072,
+    "sha256": "4a26b8929a6ffc20b5d86c450aae2579abe7aad56704e9628eb87e8531dc1668"
+  },
+  {
+    "arquivo": "linux_memoria/finalizar_ram.py",
+    "bytes": 861,
+    "sha256": "fb15f1712413e019c9dd8858d77b513435954be4f76afb5b35eba6899a218f74"
+  },
+  {
+    "arquivo": "linux_memoria/graficos.py",
+    "bytes": 3513,
+    "sha256": "67f992f59f94f8687eda267f617d6e759dddbd114983f970e314b4f29c7a0c46"
+  },
+  {
+    "arquivo": "linux_memoria/resumir_coleta.py",
+    "bytes": 3673,
+    "sha256": "34f1d0ef3c277c649119aff43882609c1710955aed0f2a8de7c6245d6d0d7616"
+  },
+  {
+    "arquivo": "linux_memoria/retomar_coleta.py",
+    "bytes": 2255,
+    "sha256": "e96fd58980b0e95ae92da65f4a1819abf110479bf888b5941e274e8c16aad11b"
+  },
+  {
+    "arquivo": "linux_memoria/validar.py",
+    "bytes": 2581,
+    "sha256": "7597f8774ffc6f4d024e7c50f9e88fdce98a6826108db96779344d611191851a"
+  },
+  {
+    "arquivo": "linux_memoria/wslconfig.exemplo",
+    "bytes": 62,
+    "sha256": "6b0d0de5ddf6fe4dc86572e93a3c4d180f93e995763e948fc9df7a62dd70b9e1"
+  },
+  {
+    "arquivo": "Relatorio_Tecnico_Seminario_INF0336_Revisado (1).md",
+    "bytes": 9136,
+    "sha256": "2d5e40a778d1d7e5ba2d10d912e0c91db39356a88b3131312ed2226e39c8b071"
+  },
+  {
+    "arquivo": "requirements.txt",
+    "bytes": 125,
+    "sha256": "f5bfdd16721daadbc1917c3afbe9eb621005a0ef685747640c4fd3b66d364e13"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0256MiB_localidade_r1/amostras.csv",
+    "bytes": 38051,
+    "sha256": "6be7947cd28febf8884c9062746c9a9b09c645c7bf57de75829818425d84da86"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0256MiB_localidade_r1/caso.json",
+    "bytes": 2690,
+    "sha256": "ca25813be2909f0416a01a44ced68ae1d778865e5b8a74bd2f96094931f2eb0e"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0256MiB_localidade_r1/eventos.jsonl",
+    "bytes": 478,
+    "sha256": "af5160afa6c325cd43e0ff064b2f28b0d8fba8687ef1484d5503f6eb565d5063"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0256MiB_localidade_r1/stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0256MiB_localidade_r2/amostras.csv",
+    "bytes": 42596,
+    "sha256": "48c00c5a4788e9ee91ccd1a46e31f54b0ee1fc55974b15d8b9a91253b9aa60e5"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0256MiB_localidade_r2/caso.json",
+    "bytes": 2807,
+    "sha256": "ccd5b428eb8e6dd1d586f2324046562a86433f089c92a2321c2819e33aa91d1c"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0256MiB_localidade_r2/eventos.jsonl",
+    "bytes": 485,
+    "sha256": "8225e66438e8736cb747e37ebfc90f3a561eb1821087315ed5d1ca18cff70dcb"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0256MiB_localidade_r2/stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0256MiB_localidade_r3/amostras.csv",
+    "bytes": 37451,
+    "sha256": "19ffc3027a14e493a3956c38e4354e8e1f2b8feef604e456a5b1d4c3ef0fb4a5"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0256MiB_localidade_r3/caso.json",
+    "bytes": 2676,
+    "sha256": "fa4752af92656a9d6fabeb83c97c8a787db7dff1599670df4196376239c10707"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0256MiB_localidade_r3/eventos.jsonl",
+    "bytes": 477,
+    "sha256": "8535c9dd6a380f8d31bff03a1dbdbc128df83d1f0de5fbb49f7d302553c96015"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0256MiB_localidade_r3/stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0256MiB_pseudoaleatorio_r1/amostras.csv",
+    "bytes": 38771,
+    "sha256": "4d8fe1b0a56381bebdb983b14438753eaa633e18ff401f0da0ec5c628ac5a00a"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0256MiB_pseudoaleatorio_r1/caso.json",
+    "bytes": 2703,
+    "sha256": "3269c8c8dc354a09548101587577ff287a21536c3116a84dd8baf8c748019f50"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0256MiB_pseudoaleatorio_r1/eventos.jsonl",
+    "bytes": 480,
+    "sha256": "3776c008cad420ada667993c4e20d1d15b69ac78ead7a028438be1e36aac669e"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0256MiB_pseudoaleatorio_r1/stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0256MiB_pseudoaleatorio_r2/amostras.csv",
+    "bytes": 43633,
+    "sha256": "7c265dc4da67b119ab83a919c7c5b94e15c0d3cb26b4239f08b9ca04074f0dad"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0256MiB_pseudoaleatorio_r2/caso.json",
+    "bytes": 2818,
+    "sha256": "d2463f1167d35098a8ea0be1ef34c6fd12b6d341f89c5f38eb8f68f497478b76"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0256MiB_pseudoaleatorio_r2/eventos.jsonl",
+    "bytes": 485,
+    "sha256": "ebe42a04c1b1fbe9cad0fd514aadb685b273a5ac200d35eed10ab0edc81431ac"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0256MiB_pseudoaleatorio_r2/stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0256MiB_pseudoaleatorio_r3/amostras.csv",
+    "bytes": 43766,
+    "sha256": "c898c0f4f144a71cd61ddcf20e3628251edf87288093fc22b2050a3a6c3a3555"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0256MiB_pseudoaleatorio_r3/caso.json",
+    "bytes": 2821,
+    "sha256": "b836dc11ef3ad08aa511d2216dfac5db5ba4a9ee15737ab4d4009ff464eab3fc"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0256MiB_pseudoaleatorio_r3/eventos.jsonl",
+    "bytes": 485,
+    "sha256": "073e9124d822706c89dd33f0b10a1726e97da24394a1ba29604f52e52dafe9ca"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0256MiB_pseudoaleatorio_r3/stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0256MiB_sequencial_r1/amostras.csv",
+    "bytes": 37937,
+    "sha256": "f940e826ce766631261dd640a9be5ef664efdef79c5f623566b84a5f2f79489a"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0256MiB_sequencial_r1/caso.json",
+    "bytes": 2680,
+    "sha256": "aaac8105cf8fbacafa81fb7618c12ed353f37dc339c82288ed388b10e2cc8fa2"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0256MiB_sequencial_r1/eventos.jsonl",
+    "bytes": 475,
+    "sha256": "77d39619538be536c9067426f7b64aa25b3c83c15dc50a982035abc686f6edb5"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0256MiB_sequencial_r1/stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0256MiB_sequencial_r2/amostras.csv",
+    "bytes": 42980,
+    "sha256": "55cf34e9e804faae46bff9c88c52d9f5fbc246e0b28d8a3c113db6bb5fd2b667"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0256MiB_sequencial_r2/caso.json",
+    "bytes": 2807,
+    "sha256": "1bffb8f54deb5b97ce78b46c97a30f9aa05dd4beafccfc23157c1b7d180752cb"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0256MiB_sequencial_r2/eventos.jsonl",
+    "bytes": 485,
+    "sha256": "c8b25cb03eb6fa14d2dc7d01e7e014fb897282846febee0922fb8d03dd309464"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0256MiB_sequencial_r2/stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0256MiB_sequencial_r3/amostras.csv",
+    "bytes": 43116,
+    "sha256": "c5c1c08ba05d7dab28d3e05f0a0840e7f9b8a8b240473035124203f004947890"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0256MiB_sequencial_r3/caso.json",
+    "bytes": 2810,
+    "sha256": "392e324786b9f2132dcd6cee4cd18cda55d6f86a0b5e80a909830b1c45bd32c3"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0256MiB_sequencial_r3/eventos.jsonl",
+    "bytes": 485,
+    "sha256": "41928331aa16c7a05405beeb9ff986cdf3edf407a33f2a58cce9347e1913aa79"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0256MiB_sequencial_r3/stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0512MiB_localidade_r1/amostras.csv",
+    "bytes": 40995,
+    "sha256": "570e6eee2c2fbd46b6e86d9dd1a20ae7e6bc2431b80886ab8ec60e6b5f7e900a"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0512MiB_localidade_r1/caso.json",
+    "bytes": 2758,
+    "sha256": "d511ddf459fd479b3f18e3500409cc9bd327ef27d9f4a5cfa06284831b5f81b3"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0512MiB_localidade_r1/eventos.jsonl",
+    "bytes": 482,
+    "sha256": "dabe52ecadf42eb749790367f9029f2063742761568dbd31bc2dfc473f48a1c0"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0512MiB_localidade_r1/stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0512MiB_localidade_r2/amostras.csv",
+    "bytes": 42837,
+    "sha256": "eeb519de3fdfe62868abce108fc6b3ed728cd9c10b32ec24e2226fd39a17a535"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0512MiB_localidade_r2/caso.json",
+    "bytes": 2802,
+    "sha256": "1488bf482c0808c1ad64eb04d06e6757a0ba94c59987c0967df1405756eb6cb7"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0512MiB_localidade_r2/eventos.jsonl",
+    "bytes": 487,
+    "sha256": "46f647121e0d46f03652d0bb7fc209abe7166b30c5de46d319aebac21f59ae04"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0512MiB_localidade_r2/stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0512MiB_localidade_r3/amostras.csv",
+    "bytes": 39582,
+    "sha256": "cf59ce7287e3c8624f149becd846d7c516731d7e5af716c11bf6132dbbe17ef7"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0512MiB_localidade_r3/caso.json",
+    "bytes": 2719,
+    "sha256": "3ac5a0aaa02a8107ecc8a929128906bdc9a0f9845b4d63a2cdf36178ae9cc68d"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0512MiB_localidade_r3/eventos.jsonl",
+    "bytes": 482,
+    "sha256": "41ecf5e4a7d02295ebb4ca6fe102eb1604d4182a38c6477297c6318bb219bca6"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0512MiB_localidade_r3/stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0512MiB_pseudoaleatorio_r1/amostras.csv",
+    "bytes": 42950,
+    "sha256": "a17f8e68332577ee674cd3dffd3f80c82d22fddd9b97cf3dc4469b026b5bbfa3"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0512MiB_pseudoaleatorio_r1/caso.json",
+    "bytes": 2794,
+    "sha256": "3b006be031849572a296a2854dcb032ca715329f80fd4dad4feb897c54e5fcb5"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0512MiB_pseudoaleatorio_r1/eventos.jsonl",
+    "bytes": 490,
+    "sha256": "cb916c21a4b5ed2edc6347a0d612c60d5131aa571cdcf3cab66ad34b71856ea7"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0512MiB_pseudoaleatorio_r1/stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0512MiB_pseudoaleatorio_r2/amostras.csv",
+    "bytes": 43500,
+    "sha256": "41a4be0f0e656607d87075599b10a902f1b48dea13edf39bd28b2556bfc3a4bb"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0512MiB_pseudoaleatorio_r2/caso.json",
+    "bytes": 2813,
+    "sha256": "b45fb68d886c34140ea513070f65f789cebbc70802e0224d9519fccc18cd3da4"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0512MiB_pseudoaleatorio_r2/eventos.jsonl",
+    "bytes": 487,
+    "sha256": "771c173b88b27f4dc30fe4db72eef15909ac200707e6ad66f08d479168facd91"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0512MiB_pseudoaleatorio_r2/stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0512MiB_pseudoaleatorio_r3/amostras.csv",
+    "bytes": 39474,
+    "sha256": "cfc06bc400ecdc51a13555be1bd5ba5f7ac6768cc014668f75c196389cee1775"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0512MiB_pseudoaleatorio_r3/caso.json",
+    "bytes": 2716,
+    "sha256": "4f8e4299b02c53caf9bcb2bdc4b844336abd634b57e7d5cba6a6b0d2087e047c"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0512MiB_pseudoaleatorio_r3/eventos.jsonl",
+    "bytes": 482,
+    "sha256": "a7c932ce29d4683a9fcd8d6df38b9702a914ffb03a2ea11e25aea2dacb19247c"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0512MiB_pseudoaleatorio_r3/stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0512MiB_sequencial_r1/amostras.csv",
+    "bytes": 40359,
+    "sha256": "f423e4148a7feaf26cbeaeab6949be55c24a92fe6c73fc5b4c769b9493528977"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0512MiB_sequencial_r1/caso.json",
+    "bytes": 2744,
+    "sha256": "928f80f9fa418f9e640dec3fc5e6d35c6e15658544d90c322d7a42cb1223c055"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0512MiB_sequencial_r1/eventos.jsonl",
+    "bytes": 489,
+    "sha256": "9cdd490f254634d43e1888fe6ac8c91489adf68eb743589412f767aa4f3aeeb0"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0512MiB_sequencial_r1/stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0512MiB_sequencial_r2/amostras.csv",
+    "bytes": 42832,
+    "sha256": "7c6c7a5c085451b84183ca430abb96f60db9231ad4e4b7d85e2fdbc1a74616d6"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0512MiB_sequencial_r2/caso.json",
+    "bytes": 2803,
+    "sha256": "4a7271d5717757b9105ff00b01b11fc343497d4bc3cf39360d26aea06f2ecac0"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0512MiB_sequencial_r2/eventos.jsonl",
+    "bytes": 487,
+    "sha256": "dee4a9024821d3364f823235a4651051a5377c60feed91d0e25172c13c478a76"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0512MiB_sequencial_r2/stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0512MiB_sequencial_r3/amostras.csv",
+    "bytes": 39590,
+    "sha256": "40e77cc2a35e244e264829102d085d5f62ce5056cce1bdc40d960b4d27713367"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0512MiB_sequencial_r3/caso.json",
+    "bytes": 2719,
+    "sha256": "8008e4831f717b0f37129fb1e50fbc76cc465fd628990192da5388efb92c8a55"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0512MiB_sequencial_r3/eventos.jsonl",
+    "bytes": 482,
+    "sha256": "9ace6a498889b4c5a153a4b608c3aa89469f9039b34ecc10270c584c150e38d5"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0512MiB_sequencial_r3/stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0768MiB_localidade_r1/amostras.csv",
+    "bytes": 44498,
+    "sha256": "8f6e16948ef94171613862f6c0a08e42d814f720169fd9b869e13ab61fbcdb39"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0768MiB_localidade_r1/caso.json",
+    "bytes": 2805,
+    "sha256": "ba1da1b599f9894a8636f6774c6d7738369fb28678670c3cef5a61c9bfbc3754"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0768MiB_localidade_r1/eventos.jsonl",
+    "bytes": 492,
+    "sha256": "bd79fd5e3ad6ecdef9f362f002feb5da6cca46f784f19392c1989bc46d134ba8"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0768MiB_localidade_r1/stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0768MiB_localidade_r2/amostras.csv",
+    "bytes": 44146,
+    "sha256": "bf27fd55f6ac8338ccffcb64cf03a1bdba16c0d2f0f13b005998438d07f218ed"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0768MiB_localidade_r2/caso.json",
+    "bytes": 2810,
+    "sha256": "7691b0b5e308735acd30866a5df7bf010c25a9a439cb5b06d367d84c46a74bab"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0768MiB_localidade_r2/eventos.jsonl",
+    "bytes": 494,
+    "sha256": "010c879031733e1f363fece5219d7872e24d91512d26b60bf774d9434429b1f6"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0768MiB_localidade_r2/stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0768MiB_localidade_r3/amostras.csv",
+    "bytes": 44571,
+    "sha256": "1727a481ef9dd761f50763be042b91f7c190c487f7ce442748d35f4c28ea1a27"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0768MiB_localidade_r3/caso.json",
+    "bytes": 2822,
+    "sha256": "a607a3e3465abe5523f523aad95aa503a14949a692492382c70c6ff04a3b8310"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0768MiB_localidade_r3/eventos.jsonl",
+    "bytes": 494,
+    "sha256": "d07f4c3adc06982f9cdb7868d1c1fde13fba4420ca7a0d4a2d1192c444ec2f6f"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0768MiB_localidade_r3/stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0768MiB_pseudoaleatorio_r1/amostras.csv",
+    "bytes": 44440,
+    "sha256": "bee00570e8e0b98096d0786ffcb7cca959ebe6f7f3300723d878e21507c192ce"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0768MiB_pseudoaleatorio_r1/caso.json",
+    "bytes": 2811,
+    "sha256": "4a75ce88b31a02728baa905ff54c4795f8ae88798fc4af41e79e6a722c8edf6e"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0768MiB_pseudoaleatorio_r1/eventos.jsonl",
+    "bytes": 492,
+    "sha256": "7c4f7f955b7eb8f0424c1e4088b54db6f09833186cc5f5596cf802231bfbc4e6"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0768MiB_pseudoaleatorio_r1/stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0768MiB_pseudoaleatorio_r2/amostras.csv",
+    "bytes": 44927,
+    "sha256": "2f8b8cdcf26c9792b439980b589a6ca33d80024444a18b90177080ad2b4b02f0"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0768MiB_pseudoaleatorio_r2/caso.json",
+    "bytes": 2825,
+    "sha256": "dc7cd11e8e8854824cf315499a812f83adaaba76db1481a949b61d295d39bdb0"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0768MiB_pseudoaleatorio_r2/eventos.jsonl",
+    "bytes": 495,
+    "sha256": "08267e5b0cd26e62797723d739b2583e2430d159882bb2b9832ee24d47fd174f"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0768MiB_pseudoaleatorio_r2/stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0768MiB_pseudoaleatorio_r3/amostras.csv",
+    "bytes": 45078,
+    "sha256": "8c51e5fa2705eecbb1e88a862c1652e8fea2db23cdd8fb563d1f93f85502fc80"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0768MiB_pseudoaleatorio_r3/caso.json",
+    "bytes": 2829,
+    "sha256": "d1021387b0be285eff52145110b1c28e275ecbf7f35c09c7a78c63cddbe9627a"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0768MiB_pseudoaleatorio_r3/eventos.jsonl",
+    "bytes": 495,
+    "sha256": "4fb94845a61786c2eb0224e5755ac7018033a0b235fd1ecceca843a10edf948a"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0768MiB_pseudoaleatorio_r3/stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0768MiB_sequencial_r1/amostras.csv",
+    "bytes": 44197,
+    "sha256": "0d5bea94b37fedb2ee6099ff4c3b75fb7d8f542f30a98c166054219993095c9d"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0768MiB_sequencial_r1/caso.json",
+    "bytes": 2807,
+    "sha256": "6ff4c67342197213300577000dddc4860c5e00a92fdd18b7cb103c891a4e1960"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0768MiB_sequencial_r1/eventos.jsonl",
+    "bytes": 494,
+    "sha256": "c267c1f7437c5debb3604c429be46f91fd8e5a639a262578d43dabde86a226e9"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0768MiB_sequencial_r1/stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0768MiB_sequencial_r2/amostras.csv",
+    "bytes": 44892,
+    "sha256": "505cf276e48fb0ebb93dee69144a1859089f2c90b2fe767a459b01f1e68326e2"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0768MiB_sequencial_r2/caso.json",
+    "bytes": 2825,
+    "sha256": "2b9562feb8804fbbc72575eed4260f60c4570efdebec76b87c6476531dab69bf"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0768MiB_sequencial_r2/eventos.jsonl",
+    "bytes": 498,
+    "sha256": "a697b94a2e271f7b177dc91aa5bdbcc04d3e99ebb33ceac92f71ef1c4598b44f"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0768MiB_sequencial_r2/stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0768MiB_sequencial_r3/amostras.csv",
+    "bytes": 44766,
+    "sha256": "de8026abf3cc74b58eac7fe16fa4de8e8ef6aa6bbfcecce5b8fe381233a05a6e"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0768MiB_sequencial_r3/caso.json",
+    "bytes": 2830,
+    "sha256": "bb3df82162d8558d563a5a593486493eed1569e76c24b768ebd84b30bd31001d"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0768MiB_sequencial_r3/eventos.jsonl",
+    "bytes": 498,
+    "sha256": "a3f9b62115390f69bc10b2f6771349e9071fca81c3c2574dac93366060a66674"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/0768MiB_sequencial_r3/stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1024MiB_localidade_r1/amostras.csv",
+    "bytes": 44551,
+    "sha256": "f7bfba64cc90d5dab3c373841bcfe2a0d8df1eb5dcdef13f85a47a2fbf360d99"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1024MiB_localidade_r1/caso.json",
+    "bytes": 2802,
+    "sha256": "428eb1a1f78db25b3d3761d16d075d5ae1e400fa240edf8fc25d1539082d7d73"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1024MiB_localidade_r1/eventos.jsonl",
+    "bytes": 491,
+    "sha256": "a8359388d3c2c7776d62ac317ee718630236a154868d96987df983969ddf7960"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1024MiB_localidade_r1/stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1024MiB_localidade_r2/amostras.csv",
+    "bytes": 44982,
+    "sha256": "fe69b38524cbbb22a0ddb0c7285087dab16830f21394f4bd9f20ab7cf3b3d095"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1024MiB_localidade_r2/caso.json",
+    "bytes": 2816,
+    "sha256": "61be80659bd84b226413a618f662b1e1416db993198504281bed5e850c047280"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1024MiB_localidade_r2/eventos.jsonl",
+    "bytes": 494,
+    "sha256": "fb99c6e979b20eca4d8ef694710ce05f32dada6d56db5edd012d2fdd1e588f13"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1024MiB_localidade_r2/stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1024MiB_localidade_r3/amostras.csv",
+    "bytes": 45580,
+    "sha256": "470f9b8b8d75fb5cd1dfb57b253c6d64c6aed39035a762615c39f97d88443331"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1024MiB_localidade_r3/caso.json",
+    "bytes": 2821,
+    "sha256": "aba3169cd0ecf4f33716dd6b9782bbd81af1e3a97ac637d84d9a36dbd0f43214"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1024MiB_localidade_r3/eventos.jsonl",
+    "bytes": 495,
+    "sha256": "d158b359f95b44caccf3057d9c77fc99d1fc882e21c70673cfa39e1a98569549"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1024MiB_localidade_r3/stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1024MiB_pseudoaleatorio_r1/amostras.csv",
+    "bytes": 45368,
+    "sha256": "fb2a77d26a2a3412d87ff43fef549452a1cee76100a2bd45c0471b8f3aadc053"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1024MiB_pseudoaleatorio_r1/caso.json",
+    "bytes": 2816,
+    "sha256": "3638ba34a57274eb6a0cd34e2b4426cb83bf318b43972a9c7903a979fbfd062d"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1024MiB_pseudoaleatorio_r1/eventos.jsonl",
+    "bytes": 492,
+    "sha256": "4fe1453e1cd4d172e112b1c3347378f34a512c687a24293767ec5dcad74a5376"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1024MiB_pseudoaleatorio_r1/stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1024MiB_pseudoaleatorio_r2/amostras.csv",
+    "bytes": 45125,
+    "sha256": "02d44c0467ddee39d0d37f235ea94c8f5b05f3f17a1ee66496ded03dab51f1e6"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1024MiB_pseudoaleatorio_r2/caso.json",
+    "bytes": 2827,
+    "sha256": "b16e87e4b3aa51601aec462f8e0eba12cee7ce43da2e9120988b9bd6aa350db3"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1024MiB_pseudoaleatorio_r2/eventos.jsonl",
+    "bytes": 495,
+    "sha256": "900789f0dc58432eb98238c58042279c364455e1dbb23bd917e6d318460ef64f"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1024MiB_pseudoaleatorio_r2/stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1024MiB_pseudoaleatorio_r3/amostras.csv",
+    "bytes": 46071,
+    "sha256": "db9bca7eece7f874be3440d5d28d5839600382873c696fff51647c17d486be8e"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1024MiB_pseudoaleatorio_r3/caso.json",
+    "bytes": 2837,
+    "sha256": "5ac72e64510127c1800dc020c49a99db5c117196a2a8aaf53ece9b03a5906d95"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1024MiB_pseudoaleatorio_r3/eventos.jsonl",
+    "bytes": 496,
+    "sha256": "4125cd992f4c832e0938c33e3a7982ec7e38f5aa70b9fb8c1093752642491632"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1024MiB_pseudoaleatorio_r3/stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1024MiB_sequencial_r1/amostras.csv",
+    "bytes": 44289,
+    "sha256": "328b73a20a724147f4d939604411a3d7943ceb0cd127e220da4001bbe40805b4"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1024MiB_sequencial_r1/caso.json",
+    "bytes": 2806,
+    "sha256": "a1dc1c3a26a31a3610e8dd3e0a430f6b996d553b8666b7d55b7ce10a76153f41"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1024MiB_sequencial_r1/eventos.jsonl",
+    "bytes": 495,
+    "sha256": "81acf756f668bacd4cc13ebe6b4d761b985e2254417a8629c4e5fc8f53732069"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1024MiB_sequencial_r1/stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1024MiB_sequencial_r2/amostras.csv",
+    "bytes": 44756,
+    "sha256": "9b50bfaba6cd272c3ee63ff0901e909d82d13a69336504409f5d75297d5efeda"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1024MiB_sequencial_r2/caso.json",
+    "bytes": 2817,
+    "sha256": "648fe2360beb3aa45fa0a975e263979f9f472ca2f798ad1ec9e3f83e768dd6ca"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1024MiB_sequencial_r2/eventos.jsonl",
+    "bytes": 499,
+    "sha256": "f0482195590b67e914d870f82b1e68abfaa126498748e6b8064dd5e666c9e254"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1024MiB_sequencial_r2/stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1024MiB_sequencial_r3/amostras.csv",
+    "bytes": 44003,
+    "sha256": "72d135180064138a74bd33d7a36cac19b78769a125db10bc690509c1230a86c4"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1024MiB_sequencial_r3/caso.json",
+    "bytes": 2827,
+    "sha256": "fb5eb123c31b08f32ead80d8f41331c68ba692bea845d8ffa7df83e7c1b9a0ae"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1024MiB_sequencial_r3/eventos.jsonl",
+    "bytes": 498,
+    "sha256": "b93e3eea2463b18551d6c0fbe4a0bb4f339dbf0f36deabafacd9cd6dbb49e3ed"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1024MiB_sequencial_r3/stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1536MiB_localidade_r1/amostras.csv",
+    "bytes": 44900,
+    "sha256": "897b2735ec96f9eb4b66aab640e404be392d2a16a8164d20ae716c1a12725565"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1536MiB_localidade_r1/caso.json",
+    "bytes": 2802,
+    "sha256": "978ebee655faad09ba511fd72cd632e4556670af1050fa77096496bac4a9900b"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1536MiB_localidade_r1/eventos.jsonl",
+    "bytes": 492,
+    "sha256": "85c35a380af244e17dfdb9bb85ae2cd48f629d25dbe43789c64aeba1cd2e2a82"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1536MiB_localidade_r1/stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1536MiB_localidade_r2/amostras.csv",
+    "bytes": 45606,
+    "sha256": "ca3d522a854cfb962ef0db27a248b5b3fe0897a67f176922db119914e7ab2912"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1536MiB_localidade_r2/caso.json",
+    "bytes": 2812,
+    "sha256": "e303af1c985b05ab4f510453f99bf184d57bdb2b07205c906d2698d2863c73e3"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1536MiB_localidade_r2/eventos.jsonl",
+    "bytes": 494,
+    "sha256": "d7d9b1bca57d07ebab619365dc88be4512dc359484aa23d7fc33f1446ae4219a"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1536MiB_localidade_r2/stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1536MiB_localidade_r3/amostras.csv",
+    "bytes": 46254,
+    "sha256": "6552d3118c100cd7e63b4c2af68a430895279c14624f0342be7d3faabce1acfa"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1536MiB_localidade_r3/caso.json",
+    "bytes": 2820,
+    "sha256": "b4449abad370e73f7f3805911be67b073f0a956a84b012741eb8899eb335d57a"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1536MiB_localidade_r3/eventos.jsonl",
+    "bytes": 494,
+    "sha256": "9d2736e11776570d8428d1eaa398fea850a0d975aa147e667ac207984f70f839"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1536MiB_localidade_r3/stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1536MiB_pseudoaleatorio_r1/amostras.csv",
+    "bytes": 45349,
+    "sha256": "694b2b0921c36e32efb7aa1b90a04b83f19a83bc090be98b4131672d71ea12a4"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1536MiB_pseudoaleatorio_r1/caso.json",
+    "bytes": 2814,
+    "sha256": "19036016873cc14de21c58708c8b6c9972ce940d32df1ad68430b3982dbd59c3"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1536MiB_pseudoaleatorio_r1/eventos.jsonl",
+    "bytes": 491,
+    "sha256": "71d6c1e4530b6ac5d827da95ff4fc1b5f2df3c8e8380696ca3621342dbdbfc71"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1536MiB_pseudoaleatorio_r1/stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1536MiB_pseudoaleatorio_r2/amostras.csv",
+    "bytes": 45630,
+    "sha256": "2ca7b22566b2f93976aec4ce26804674822bbb8ee6db5ff998f16793c92907b9"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1536MiB_pseudoaleatorio_r2/caso.json",
+    "bytes": 2822,
+    "sha256": "b38518acb4657302396c822a0c8636eaafd4f199814c7447a48f19f31114b342"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1536MiB_pseudoaleatorio_r2/eventos.jsonl",
+    "bytes": 492,
+    "sha256": "c825bbbe2284342e24239daa4f5739ecba06008d61c503407eb83eac69737e48"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1536MiB_pseudoaleatorio_r2/stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1536MiB_pseudoaleatorio_r3/amostras.csv",
+    "bytes": 46633,
+    "sha256": "dd9bc2f8a4dfdb7b1eb02ef05c294d0c3663d996e938c00fd321d81aa1465694"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1536MiB_pseudoaleatorio_r3/caso.json",
+    "bytes": 2829,
+    "sha256": "034ba89a1278272202a7439d137807784e5d24dc217a4e767cf78959363c5cd8"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1536MiB_pseudoaleatorio_r3/eventos.jsonl",
+    "bytes": 493,
+    "sha256": "40722ec06660bc0a8c0e9157f80cec3e0b32a290b5cbc894949101892071d80a"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1536MiB_pseudoaleatorio_r3/stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1536MiB_sequencial_r1/amostras.csv",
+    "bytes": 44364,
+    "sha256": "d4f8e1bc630db323d1e53ae642fd0e26ca8da33e67b842c16e995aa246a03fc4"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1536MiB_sequencial_r1/caso.json",
+    "bytes": 2808,
+    "sha256": "2f2aad3e8803ff68f4b0b87d33b764ed0d97240a079746fe3d3ff166686321b1"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1536MiB_sequencial_r1/eventos.jsonl",
+    "bytes": 496,
+    "sha256": "c105e25ad8e82a26a6d099ae9bdb6966069791b4bdcfe63d367f92ed1e4bcae7"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1536MiB_sequencial_r1/stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1536MiB_sequencial_r2/amostras.csv",
+    "bytes": 45077,
+    "sha256": "7eb624253e0f00e6ab2359376267bb35acd9df65f47874d18076d1e3750c69c2"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1536MiB_sequencial_r2/caso.json",
+    "bytes": 2815,
+    "sha256": "72fc716e9a996b32e8a51fee99018827aea6596b6faf84c160a63a0e9be68766"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1536MiB_sequencial_r2/eventos.jsonl",
+    "bytes": 498,
+    "sha256": "37866459c90c75a9898fc953aee817d5f1ef2567679f9b39212d997c4dcf3095"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1536MiB_sequencial_r2/stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1536MiB_sequencial_r3/amostras.csv",
+    "bytes": 45745,
+    "sha256": "8238e8a79a710e6c725fe6693b36a37f6b355494817d76337ea0def6c8351c9d"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1536MiB_sequencial_r3/caso.json",
+    "bytes": 2825,
+    "sha256": "7538e1752eebd7d905bb9c80791a766c638d0348d9f0ae9d9e15e2322449f661"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1536MiB_sequencial_r3/eventos.jsonl",
+    "bytes": 498,
+    "sha256": "75614edbcb9a8d12baba2962dfd35f6d81bdc1d99855a5ef878de0ef1da353a0"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/1536MiB_sequencial_r3/stderr.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/ambiente.json",
+    "bytes": 12186,
+    "sha256": "e4baeee13f825f213c433739192bbcf352da8beda06313d17f8c62997b819489"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/carga",
+    "bytes": 16960,
+    "sha256": "6d74c4f114e876ac017f8df8e44cdfd6438b0eea6f47d0a5c858554fc1f37533"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/dados_apresentacao.json",
+    "bytes": 58617,
+    "sha256": "6aa507cdea3566861b92e080fadbdca61eb748ac617731e140475b5eba86993b"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/fifo_lru.csv",
+    "bytes": 29232,
+    "sha256": "9e1908ea9fb312f16378c21bdc1ed9e4e866c733151dc92dcbbaaa9a3c5b7288"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/paginacao_real.png",
+    "bytes": 241988,
+    "sha256": "1857e6ce8a580a0e8963ac4a8db42b0490b607e821ec9bba70f85d21df89b537"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/primeiros_acessos.csv",
+    "bytes": 145677,
+    "sha256": "32680906e2a8b0f64bbfe7c02f9ebe48f7bd56438ffcb329aabd0ae321bcf70a"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/RELATORIO_LINUX.md",
+    "bytes": 6949,
+    "sha256": "3e7fc89730b2efaf54b99a0d58b79dfb1dabd45dd9e8733b9ee16bb6d40ff00b"
+  },
+  {
+    "arquivo": "resultados_linux/coleta_completa_20261118/resumo_real.csv",
+    "bytes": 9224,
+    "sha256": "f1d1196f12199afbd144614e6cb6d4afe55aa66421a89b9542e016cb68cc4b24"
+  },
+  {
+    "arquivo": "ROTEIRO_APRESENTACAO_7_MINUTOS.md",
+    "bytes": 8412,
+    "sha256": "605d99d2231ea10ebbb14cefd6fc277fc411f3931ffc0c7447d23cbd0b35fe99"
+  }
+]
