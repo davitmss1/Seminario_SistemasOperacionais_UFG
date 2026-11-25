@@ -1,0 +1,10 @@
+{
+  "casos": 4,
+  "esperados": 4,
+  "acessos": 437946,
+  "simulacoes": 8,
+  "completo": true,
+  "hashes_ok": true,
+  "contadores_ok": true,
+  "dados_ok": true
+}

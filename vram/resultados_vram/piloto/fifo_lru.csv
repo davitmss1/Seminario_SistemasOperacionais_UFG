@@ -1,0 +1,9 @@
+caso,carga_mib,padrao,repeticao,algoritmo_real,algoritmo,capacidade_logica_mib,acessos,faltas,taxa_faltas_pct,hash_blocos
+0256MiB_sequencial_r1_FIFO,256,sequencial,1,FIFO,FIFO,1024,210625,64,0.030385756676557865,222405fb4a632b9f
+0256MiB_sequencial_r1_FIFO,256,sequencial,1,FIFO,LRU,1024,210625,64,0.030385756676557865,222405fb4a632b9f
+0256MiB_sequencial_r1_LRU,256,sequencial,1,LRU,FIFO,1024,218425,64,0.0293006752890008,1acf4797264d896f
+0256MiB_sequencial_r1_LRU,256,sequencial,1,LRU,LRU,1024,218425,64,0.0293006752890008,1acf4797264d896f
+1536MiB_sequencial_r1_FIFO,1536,sequencial,1,FIFO,FIFO,1024,4439,4439,100.0,5f27fc61d6137968
+1536MiB_sequencial_r1_FIFO,1536,sequencial,1,FIFO,LRU,1024,4439,4439,100.0,5f27fc61d6137968
+1536MiB_sequencial_r1_LRU,1536,sequencial,1,LRU,FIFO,1024,4457,4457,100.0,60f7f3bb96980d8f
+1536MiB_sequencial_r1_LRU,1536,sequencial,1,LRU,LRU,1024,4457,4457,100.0,60f7f3bb96980d8f
