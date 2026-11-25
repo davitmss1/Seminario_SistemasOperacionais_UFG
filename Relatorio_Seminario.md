@@ -4,16 +4,16 @@
 
 ## Equipe:
 
-- 202401768 — Davi Torres de Mesquita da Silveira e Silva
-- 202406915 — Diogo de Souza Alves
+- 202401768 - Davi Torres de Mesquita da Silveira e Silva
+- 202406915 - Diogo de Souza Alves
 - 202401823 - Rafael Augusto Dias Batista
-- 202406924 — Pedro Henrique Rezende de Melo
+- 202406924 - Pedro Henrique Rezende de Melo
 
 ## Apresentações
 
 1. [Primeira semana — Gerenciamento de memória e virtualização (PDF)](apresentacoes/Slides_Primeira_Semana.pdf)
 2. [Segunda semana — Fundamentação e metodologia (PDF)](apresentacoes/Slides_Segunda_Semana.pdf)
-3. [Apresentação dos resultados da RAM (slides em PNG)](ram/imagens/slides/) — [roteiro em PDF](ram/documentos/ROTEIRO_APRESENTACAO_7_MINUTOS.pdf).
+3. 
 
 ## Resumo
 
