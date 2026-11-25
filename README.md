@@ -13,7 +13,7 @@
 
 1. [Primeira semana — Gerenciamento de memória e virtualização (PDF)](apresentacoes/Slides_Primeira_Semana.pdf)
 2. [Segunda semana — Fundamentação e metodologia (PDF)](apresentacoes/Slides_Segunda_Semana.pdf)
-3. 
+3. [Terceira semana — Paginação real com 1 GiB de RAM: resultados e comparação entre FIFO e LRU](apresentacoes/Slides_Terceira_Semana.pdf)
 
 ## Resumo
 
