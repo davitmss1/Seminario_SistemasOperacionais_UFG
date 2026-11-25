@@ -4,7 +4,7 @@
 
 ## Equipe:
 
-- 202401768 - Davi Torres de Mesquita da Silveira e Silva
+- 202401768 - Davi Torres de Mesquita da Silveira e Silvahttps://github.com/notifications
 - 202406915 - Diogo de Souza Alves
 - 202401823 - Rafael Augusto Dias Batista
 - 202406924 - Pedro Henrique Rezende de Melo
@@ -14,6 +14,7 @@
 1. [Primeira semana — Gerenciamento de memória e virtualização (PDF)](apresentacoes/Slides_Primeira_Semana.pdf)
 2. [Segunda semana — Fundamentação e metodologia (PDF)](apresentacoes/Slides_Segunda_Semana.pdf)
 3. [Terceira semana — Paginação real com 1 GiB de RAM: resultados e comparação entre FIFO e LRU](apresentacoes/Slides_Terceira_Semana.pdf)
+4. [Quarta semana — Paginação real de VRAM: resultados e comparação entre FIFO e LRU](apresentacoes/Slides_Quarta_Semana.pdf)
 
 ## Resumo
 
