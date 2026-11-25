@@ -4,7 +4,7 @@
 
 ## Equipe:
 
-- 202401768 - Davi Torres de Mesquita da Silveira e Silvahttps://github.com/notifications
+- 202401768 - Davi Torres de Mesquita da Silveira e Silva
 - 202406915 - Diogo de Souza Alves
 - 202401823 - Rafael Augusto Dias Batista
 - 202406924 - Pedro Henrique Rezende de Melo
